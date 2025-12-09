@@ -1,0 +1,59 @@
+[
+  {
+    "molecule_name": "Metformin",
+    "patent_holder": "PharmaNova Ltd.",
+    "expiry_year": 2026
+  },
+  {
+    "molecule_name": "Aspirin",
+    "patent_holder": "Global Health Corp.",
+    "expiry_year": 2025
+  },
+  {
+    "molecule_name": "Semaglutide",
+    "patent_holder": "Novo BioPharma",
+    "expiry_year": 2031
+  },
+  {
+    "molecule_name": "Semaglutide",
+    "patent_holder": "Novo BioPharma",
+    "expiry_year": 2035
+  },
+  {
+    "molecule_name": "Atorvastatin",
+    "patent_holder": "CardioGen Inc.",
+    "expiry_year": 2028
+  },
+  {
+    "molecule_name": "Losartan",
+    "patent_holder": "RenalCare Ltd.",
+    "expiry_year": 2027
+  },
+  {
+    "molecule_name": "Dapagliflozin",
+    "patent_holder": "SGLT2 Therapeutics",
+    "expiry_year": 2029
+  },
+  {
+    "molecule_name": "Paracetamol",
+    "patent_holder": "HealWell Pharma",
+    "expiry_year": 2025
+  },
+  {
+    "molecule_name": "Hydroxychloroquine",
+    "patent_holder": "ImmunoLife Biotech",
+    "expiry_year": 2026
+  },
+  {
+    "molecule_name": "Rivaroxaban",
+    "patent_holder": "Anticoag Labs",
+    "expiry_year": 2030
+  },
+  {
+    "molecule_name": "Naproxen",
+    "patent_holder": "PainAway Therapeutics",
+    "expiry_year": 2025
+  }
+  
+]
+

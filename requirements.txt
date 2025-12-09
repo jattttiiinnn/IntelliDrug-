@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+pandas
+fpdf2
+requests
+tqdm
+openai
+# Dependencies that were pinned but might be handled automatically:
+# protobuf
+# grpcio

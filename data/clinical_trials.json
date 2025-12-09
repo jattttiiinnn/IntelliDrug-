@@ -1,0 +1,118 @@
+[
+  {
+    "trial_id": "NCT04567890",
+    "molecule_name": "Metformin",
+    "disease": "NASH",
+    "phase": "2",
+    "sponsor": "Mayo Clinic",
+    "status": "Active",
+    "start_date": "2023-06-15",
+    "estimated_completion": "2025-12-30",
+    "enrollment": 200,
+    "primary_endpoint": "Reduction in liver fat content"
+  },
+  {
+    "trial_id": "NCT04567903",
+    "molecule_name": "Metformin",
+    "disease": "NASH",
+    "phase": "2b",
+    "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+    "status": "Recruiting",
+    "start_date": "2023-01-10",
+    "estimated_completion": "2026-06-15",
+    "enrollment": 350,
+    "primary_endpoint": "Resolution of NASH without worsening of fibrosis"
+  },
+  {
+    "trial_id": "NCT04567916",
+    "molecule_name": "Metformin",
+    "disease": "NASH",
+    "phase": "3",
+    "sponsor": "European NASH Registry",
+    "status": "Not yet recruiting",
+    "start_date": "2024-02-01",
+    "estimated_completion": "2027-12-31",
+    "enrollment": 1200,
+    "primary_endpoint": "Improvement in liver fibrosis by at least one stage without worsening of NASH"
+  },
+  {
+    "trial_id": "CT-001",
+    "molecule_name": "Metformin",
+    "disease": "Alzheimer's Disease",
+    "phase": 2,
+    "sponsor": "NeuroPharm Inc.",
+    "status": "Active"
+  },
+  {
+    "trial_id": "CT-002",
+    "molecule_name": "Aspirin",
+    "disease": "Colorectal Cancer Prevention",
+    "phase": 3,
+    "sponsor": "OncoLife Research",
+    "status": "Completed"
+  },
+  {
+    "trial_id": "CT-003",
+    "molecule_name": "Semaglutide",
+    "disease": "Nonalcoholic Fatty Liver Disease",
+    "phase": 2,
+    "sponsor": "LiverTech Bio",
+    "status": "Active"
+  },
+  {
+    "trial_id": "CT-004",
+    "molecule_name": "Atorvastatin",
+    "disease": "Multiple Sclerosis",
+    "phase": 2,
+    "sponsor": "NeuroStat Therapeutics",
+    "status": "Completed"
+  },
+  {
+    "trial_id": "CT-005",
+    "molecule_name": "Losartan",
+    "disease": "Diabetic Nephropathy",
+    "phase": 3,
+    "sponsor": "Renal Health Corp.",
+    "status": "Active"
+  },
+  {
+    "trial_id": "CT-006",
+    "molecule_name": "Dapagliflozin",
+    "disease": "Heart Failure with Preserved Ejection Fraction",
+    "phase": 3,
+    "sponsor": "CardioLife Labs",
+    "status": "Completed"
+  },
+  {
+    "trial_id": "CT-007",
+    "molecule_name": "Paracetamol",
+    "disease": "Migraine Prophylaxis",
+    "phase": 1,
+    "sponsor": "PainRelief Biotech",
+    "status": "Active"
+  },
+  {
+    "trial_id": "CT-008",
+    "molecule_name": "Hydroxychloroquine",
+    "disease": "Type 1 Diabetes",
+    "phase": 2,
+    "sponsor": "Autoimmune Solutions",
+    "status": "Completed"
+  },
+  {
+    "trial_id": "CT-009",
+    "molecule_name": "Rivaroxaban",
+    "disease": "Cancer-Associated Thrombosis",
+    "phase": 3,
+    "sponsor": "OncoCardia Ltd.",
+    "status": "Active"
+  },
+  {
+    "trial_id": "CT-010",
+    "molecule_name": "Naproxen",
+    "disease": "Osteoarthritis",
+    "phase": 3,
+    "sponsor": "OrthoThera Inc.",
+    "status": "Completed"
+  }
+]

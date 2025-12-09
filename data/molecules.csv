@@ -1,0 +1,11 @@
+molecule_name,approved_indication,mechanism_of_action,patent_expiry_year
+Metformin,Type 2 Diabetes,AMPK activation leading to reduced hepatic glucose production,2026
+Aspirin,Pain and Inflammation,Irreversible COX inhibition reducing prostaglandin synthesis,2025
+Semaglutide,Type 2 Diabetes / Obesity,GLP-1 receptor agonist enhancing insulin secretion,2031
+Atorvastatin,Hyperlipidemia,HMG-CoA reductase inhibition lowering LDL cholesterol,2028
+Losartan,Hypertension,Angiotensin II receptor blockade reducing vascular resistance,2027
+Dapagliflozin,Type 2 Diabetes,SGLT2 inhibition increasing urinary glucose excretion,2029
+Paracetamol,Pain / Fever,Central COX inhibition (exact mechanism uncertain),2025
+Hydroxychloroquine,Malaria / Autoimmune,Interference with lysosomal activity and antigen presentation,2026
+Rivaroxaban,Thrombosis prevention,Direct Factor Xa inhibition preventing clot formation,2030
+Naproxen,Pain and Inflammation,Reversible COX inhibition reducing prostaglandin synthesis,2025

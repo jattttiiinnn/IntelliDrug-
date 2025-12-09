@@ -1,0 +1,71 @@
+[
+  {
+    "disease_name": "NASH",
+    "market_size_billions": 8.2,
+    "growth_rate_percent": 48,
+    "approved_drugs_count": 2,
+    "top_competitors": ["Resmetirom", "Rezdiffra"],
+    "market_maturity": "Emerging",
+    "unmet_need": "High"
+  },
+  {
+    "disease_name": "Alzheimer's Disease",
+    "market_size_billions": 9.8,
+    "growth_rate_percent": 6.5,
+    "approved_drugs_count": 7
+  },
+  {
+    "disease_name": "Colorectal Cancer Prevention",
+    "market_size_billions": 4.3,
+    "growth_rate_percent": 5.2,
+    "approved_drugs_count": 12
+  },
+  {
+    "disease_name": "Nonalcoholic Fatty Liver Disease",
+    "market_size_billions": 2.7,
+    "growth_rate_percent": 10.1,
+    "approved_drugs_count": 3
+  },
+  {
+    "disease_name": "Multiple Sclerosis",
+    "market_size_billions": 22.5,
+    "growth_rate_percent": 4.7,
+    "approved_drugs_count": 15
+  },
+  {
+    "disease_name": "Diabetic Nephropathy",
+    "market_size_billions": 6.4,
+    "growth_rate_percent": 7.8,
+    "approved_drugs_count": 5
+  },
+  {
+    "disease_name": "Heart Failure with Preserved Ejection Fraction",
+    "market_size_billions": 8.9,
+    "growth_rate_percent": 8.3,
+    "approved_drugs_count": 9
+  },
+  {
+    "disease_name": "Migraine Prophylaxis",
+    "market_size_billions": 5.6,
+    "growth_rate_percent": 5.0,
+    "approved_drugs_count": 10
+  },
+  {
+    "disease_name": "Type 1 Diabetes",
+    "market_size_billions": 14.1,
+    "growth_rate_percent": 6.1,
+    "approved_drugs_count": 11
+  },
+  {
+    "disease_name": "Cancer-Associated Thrombosis",
+    "market_size_billions": 3.8,
+    "growth_rate_percent": 9.2,
+    "approved_drugs_count": 4
+  },
+  {
+    "disease_name": "Osteoarthritis",
+    "market_size_billions": 11.7,
+    "growth_rate_percent": 4.3,
+    "approved_drugs_count": 13
+  }
+]
