@@ -6,6 +6,8 @@ fpdf2
 requests
 tqdm
 openai
+beautifulsoup4
+urllib3
 # Dependencies that were pinned but might be handled automatically:
 # protobuf
 # grpcio
