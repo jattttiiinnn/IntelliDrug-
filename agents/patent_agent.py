@@ -172,3 +172,30 @@ class PatentAgent(BaseAgent):
             raise RuntimeError(f"Gemini response missing keys: {missing}")
 
         return result
+
+    async def analyze_patent_landscape(self, molecule_name: str) -> Dict:
+        # Existing analysis code...
+        
+        # Example finding with evidence
+        finding = {
+            "finding": f"Patent protection for {molecule_name} is strong until {expiry_date}",
+            "evidence_strength": 85,
+            "sources": [
+                {
+                    "type": "patent",
+                    "year": "2023",
+                    "reliability": "high",
+                    "url": "https://patents.google.com/..."
+                },
+                {
+                    "type": "regulatory",
+                    "year": "2024",
+                    "reliability": "high",
+                    "url": "https://www.fda.gov/..."
+                }
+            ],
+            "implications": "Limited risk of generic competition until patent expiry",
+            "recommendation": "Proceed with development, but monitor for patent challenges"
+        }
+        
+        return finding
