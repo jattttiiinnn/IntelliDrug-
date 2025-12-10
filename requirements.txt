@@ -9,6 +9,7 @@ openai
 beautifulsoup4
 urllib3
 plotly
+openpyxl
 # Dependencies that were pinned but might be handled automatically:
 # protobuf
 # grpcio
