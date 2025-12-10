@@ -8,6 +8,7 @@ tqdm
 openai
 beautifulsoup4
 urllib3
+plotly
 # Dependencies that were pinned but might be handled automatically:
 # protobuf
 # grpcio
