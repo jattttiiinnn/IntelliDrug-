@@ -7,6 +7,7 @@ from typing import Any, Dict, List, Optional, Union
 import asyncio
 import logging
 import json
+import os
 
 # Worker agents
 from agents.patent_agent import PatentAgent
@@ -32,15 +33,41 @@ class MasterAgent:
     """
 
     def __init__(self):
-        self.agents = {
-            "patent_analysis": PatentAgent(),
-            "clinical_analysis": ClinicalTrialsAgent(),
-            "market_analysis": MarketAgent(),
-            "web_analysis": WebIntelligenceAgent(),
-            "exim_analysis": EXIMAgent(),
-            "internal_analysis": InternalKnowledgeAgent(),
-        }
-        self.report_generator = ReportGeneratorAgent()
+        if os.environ.get("MOCK_AGENTS") == "1":
+            from unittest.mock import AsyncMock
+            logger.info("TEST MODE: Using mocked agents.")
+            self.agents = {
+                "patent_analysis": AsyncMock(),
+                "clinical_analysis": AsyncMock(),
+                "market_analysis": AsyncMock(),
+                "web_analysis": AsyncMock(),
+                "exim_analysis": AsyncMock(),
+                "internal_analysis": AsyncMock(),
+            }
+            # Configure mock returns
+            mock_result = {
+                "confidence": 0.9,
+                "findings": [{"finding": "Mocked finding", "evidence_strength": 90, "is_positive": True}],
+                "active_trials": 10,
+                "patent_status": "Active",
+                "opportunity_score": 85,
+            }
+            for agent in self.agents.values():
+                agent.analyze_async.return_value = mock_result
+            
+            # Mock report generator specifically
+            self.report_generator = AsyncMock()
+            self.report_generator.generate_report.return_value = "mock_report.pdf"
+        else:
+            self.agents = {
+                "patent_analysis": PatentAgent(),
+                "clinical_analysis": ClinicalTrialsAgent(),
+                "market_analysis": MarketAgent(),
+                "web_analysis": WebIntelligenceAgent(),
+                "exim_analysis": EXIMAgent(),
+                "internal_analysis": InternalKnowledgeAgent(),
+            }
+            self.report_generator = ReportGeneratorAgent()
         self.progress = {name: "Pending" for name in self.agents}
         self.conversation_manager = ConversationManager()
         
@@ -118,7 +145,7 @@ class MasterAgent:
         all_results["timestamp"] = datetime.utcnow().isoformat() + "Z"
 
         # Synthesize results (NOT async - regular call)
-        all_results["master_synthesis"] = self.synthesize_results(all_results)
+        all_results["synthesis"] = self.synthesize_results(all_results)
 
         # Generate PDF report
         pdf_path = await asyncio.to_thread(
@@ -177,7 +204,7 @@ class MasterAgent:
         
         # Store the comparison results in the conversation context
         for mol, result in comparison_results.items():
-            if isinstance(result, dict) and 'master_synthesis' in result:
+            if isinstance(result, dict) and 'synthesis' in result:
                 for agent_name, agent_result in result.items():
                     if agent_name in self.agents:
                         context_key = f"{mol}_{agent_name}"
@@ -419,8 +446,8 @@ class MasterAgent:
         # Extract synthesis for each molecule
         molecule_data = {}
         for mol in molecules:
-            if mol in comparison_results and "master_synthesis" in comparison_results[mol]:
-                molecule_data[mol] = comparison_results[mol]["master_synthesis"]
+            if mol in comparison_results and "synthesis" in comparison_results[mol]:
+                molecule_data[mol] = comparison_results[mol]["synthesis"]
         
         if not molecule_data:
             return {"error": "No valid molecule data to compare"}

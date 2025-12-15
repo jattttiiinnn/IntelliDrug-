@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!-- 1. Review of valid trial -->
+    <div class="study-info">
+        <a class="link-underline" href="/study/NCT00000001">Study of Drug X for Disease Y</a>
+        <div class="study-phases">
+            <span>Phase 2</span>
+        </div>
+        <div class="study-status">
+            <span class="status-recruiting">Recruiting</span>
+        </div>
+        <div class="study-dates">
+            <span>Start Date</span>
+            <span>January 1, 2024</span>
+        </div>
+    </div>
+
+    <!-- 2. Trial with missing phase (should default to "Not specified") -->
+    <div class="study-info">
+        <a class="link-underline" href="/study/NCT00000002">Safety Study of Drug Z</a>
+        <!-- No phase span -->
+        <div class="study-status">
+            <span class="status-active">Active, not recruiting</span>
+        </div>
+        <div class="study-dates">
+            <span>Start Date</span>
+            <span>February 15, 2023</span>
+        </div>
+    </div>
+
+    <!-- 3. Trial with missing status (should default to "Status not available") -->
+    <div class="study-info">
+        <a class="link-underline" href="/study/NCT00000003">Long term follow up</a>
+        <div class="study-phases">
+            <span>Phase 3</span>
+        </div>
+        <!-- No status span -->
+        <div class="study-dates">
+            <span>Start Date</span>
+            <span>March 10, 2022</span>
+        </div>
+    </div>
+
+    <!-- 4. Trial with missing start date (should default to "Start date not available") -->
+    <div class="study-info">
+        <a class="link-underline" href="/study/NCT00000004">New Treatment Protocol</a>
+        <div class="study-phases">
+            <span>Phase 1</span>
+        </div>
+        <div class="study-status">
+            <span class="status-completed">Completed</span>
+        </div>
+        <!-- No date span set -->
+    </div>
+
+    <!-- 5. Trial with malformed structure (should be handled gracefully) -->
+    <div class="study-info">
+        <!-- Missing title link -->
+        <span>Just some text</span>
+    </div>
+</body>
+</html>

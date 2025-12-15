@@ -1,0 +1,86 @@
+IntelliDrug-Analysis Test Execution Report
+==========================================
+Date: 2025-12-12
+Total Tests Run: 28
+Total Tests Passed: 28
+Total Tests Failed: 0
+
+Overview
+--------
+This report summarizes the comprehensive testing suite implemented for the IntelliDrug Analysis application. The suite covers unit logic, system integration, end-to-end user flows, and strict data validation.
+
+1. Unit Tests: ClinicalTrialsAgent
+----------------------------------
+File: tests/test_clinical_trials_agent.py
+Tests: 9
+Status: PASSED
+
+Description:
+These tests verify the core logic of the ClinicalTrialsAgent, specifically its ability to scrape, parse, and handle errors from the ClinicalTrials.gov source.
+
+Scenarios Covered:
+- Initialization: Verifies correct setup of headers and API keys.
+- Scraping Success: Mocked HTML response verifies correct parsing of titles, phases, statuses, and dates.
+- Empty Results: Handles "No studies found" gracefullly.
+- Network Errors: Simulates timeouts and HTTP 429 (Rate Limit) errors verification.
+- Edge Cases: Parsing robustly handles missing fields (e.g., no phase specified) and malformed HTML.
+- Async Dispatch: Verifies proper routing between logic branches.
+
+2. Integration Tests: MasterAgent
+---------------------------------
+File: tests/test_master_agent_integration.py
+Tests: 7
+Status: PASSED
+
+Description:
+These tests focus on the orchestration layer (MasterAgent). They ensure all 6 sub-agents (Patent, Clinical, Market, Web, EXIM, Internal) work together correctly.
+
+Scenarios Covered:
+- Parallel Execution: Verifies that agents run concurrently (asyncio.gather).
+- Fault Tolerance: One agent failure (e.g., PatentAgent error) does not crash the entire analysis; other agents complete successfully.
+- Rate Limiting: Verifies error propagation when APIs return 429.
+- Timeout Handling: Slow agents are cut off, preventing system hang.
+- Comparison Mode: Verifies logic for comparing multiple molecules.
+- Synthesis: Checks that the final recommendation (PROCEED/CAUTION) is calculated correctly based on aggregated agent data.
+
+3. End-to-End Tests: Streamlit UI
+---------------------------------
+File: tests/test_e2e_selenium.py
+Tests: 4
+Status: PASSED
+
+Description:
+These tests run the actual Streamlit web application in a background process and control a headless Chrome browser to interact with it like a real user. To ensure reliability and speed, the backend agents are mocked (`MOCK_AGENTS=1`).
+
+FLOWS:
+- Single Molecule Analysis: 
+  - Input: "Metformin" for "NASH"
+  - Action: Click Run
+  - Verify: "Parallel analysis complete", "Executive Summary" tab visible, Recommendation badge "PROCEED" (from mock).
+- Compare Molecules:
+  - Action: Switch to "Compare Molecules" mode
+  - Verify: UI updates to show multiple input fields.
+- Save/Load Analysis:
+  - Action: Generate data, trigger save.
+  - Verify: Simulates persistence check.
+- Deep Dive Q&A:
+  - Action: Open "Deep Dive" tab
+  - Verify: Chat interface elements are present and interactive.
+
+4. Data Validation: Pydantic Schemas
+------------------------------------
+File: tests/test_data_validation.py
+Tests: 8
+Status: PASSED
+
+Description:
+Strict schema validation ensures that data passed between agents and the UI maintains integrity.
+
+Schemas Tested:
+- ClinicalTrial: Enforces Phase Enum (e.g. "Phase 3"), Status Enum, and valid dates.
+- PatentFinding: Enforces patent number format (e.g., "US-1234567") and FTO boolean.
+- MarketData: Enforces positive values for TAM/SAM/SOM and percentage ranges (0-100) for CAGR/Growth.
+- SynthesisResult: Enforces valid recommendation values (PROCEED, CAUTION, REJECT) and non-empty risk lists.
+
+Result:
+All schemas validated successfully against both valid sample data and correctly raised errors for invalid injections.
