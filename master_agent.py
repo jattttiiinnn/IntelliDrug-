@@ -16,6 +16,7 @@ from agents.market_agent import MarketAgent
 from agents.web_intelligence_agent import WebIntelligenceAgent
 from agents.exim_agent import EXIMAgent
 from agents.internal_knowledge_agent import InternalKnowledgeAgent
+from agents.competitor_agent import CompetitorAgent
 from agents.report_generator_agent import ReportGeneratorAgent
 from conversation_manager import ConversationManager
 
@@ -42,7 +43,9 @@ class MasterAgent:
                 "market_analysis": AsyncMock(),
                 "web_analysis": AsyncMock(),
                 "exim_analysis": AsyncMock(),
+                "exim_analysis": AsyncMock(),
                 "internal_analysis": AsyncMock(),
+                "competitor_agent": AsyncMock(),
             }
             # Configure mock returns
             mock_result = {
@@ -66,6 +69,7 @@ class MasterAgent:
                 "web_analysis": WebIntelligenceAgent(),
                 "exim_analysis": EXIMAgent(),
                 "internal_analysis": InternalKnowledgeAgent(),
+                "competitor_agent": CompetitorAgent(),
             }
             self.report_generator = ReportGeneratorAgent()
         self.progress = {name: "Pending" for name in self.agents}
@@ -77,8 +81,10 @@ class MasterAgent:
             "clinical_analysis": "Clinical Trials",
             "market_analysis": "Market Analysis",
             "web_analysis": "Web Intelligence",
+            "web_analysis": "Web Intelligence",
             "exim_analysis": "EXIM Analysis",
-            "internal_analysis": "Internal Knowledge"
+            "internal_analysis": "Internal Knowledge",
+            "competitor_agent": "Competitor Analysis"
         }
 
     def get_analysis_progress(self) -> Dict[str, str]:

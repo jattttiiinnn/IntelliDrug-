@@ -1,0 +1,30 @@
+Loading data from data/repurposing_training_data.csv...
+Features: ['molecular_similarity', 'phase_started_encoded', 'disease_category_match', 'market_size_ratio', 'mechanism_strength', 'prior_safety_data']
+Target distribution:
+outcome
+1    40
+0    30
+Name: count, dtype: int64
+
+--- Model Evaluation ---
+
+Logistic Regression:
+  Accuracy: 0.8571
+  Precision: 1.0000
+  Recall: 0.8000
+  F1 Score: 0.8889
+
+Random Forest:
+  Accuracy: 0.7143
+  Precision: 0.8750
+  Recall: 0.7000
+  F1 Score: 0.7778
+
+XGBoost:
+  Accuracy: 0.6429
+  Precision: 0.8571
+  Recall: 0.6000
+  F1 Score: 0.7059
+
+Best Model: Logistic Regression with Accuracy: 0.8571
+Model and scaler saved to models/

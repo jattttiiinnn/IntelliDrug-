@@ -1,0 +1,71 @@
+drug_name,original_indication,new_indication,molecular_similarity,phase_started,disease_category_match,market_size_ratio,mechanism_strength,prior_safety_data,outcome
+Metformin,Diabetes Type 2,PCOS,0.615,Phase2,False,2.77,9,10,1
+Thalidomide,Sedative,Leprosy,0.352,Discovery,False,5.58,8,15,1
+Thalidomide,Leprosy,Multiple Myeloma,0.416,Phase2,False,1.76,10,25,1
+Sildenafil,Angina,Erectile Dysfunction,0.399,Phase1,False,1.45,9,25,1
+Sildenafil,Erectile Dysfunction,Pulmonary Hypertension,0.209,Phase3,False,0.23,10,10,1
+Minoxidil,Hypertension,Hair Loss,0.626,Phase1,False,2.67,9,10,1
+Zidovudine (AZT),Cancer,HIV/AIDS,0.852,Discovery,False,1.3,8,8,1
+Tamoxifen,Breast Cancer,Bipolar Disorder,0.434,Phase2,False,1.61,6,15,1
+Raloxifene,Osteoporosis,Breast Cancer,0.481,Phase3,False,4.07,9,5,1
+Sirolimus (Rapamycin),Organ Transplant,LAM (Lung Disease),0.488,Phase2,False,2.22,7,25,1
+Adalimumab,RA (failed Septic Shock),Rheumatoid Arthritis,0.438,Phase3,False,0.29,9,40,1
+Infliximab,Sepsis,Crohn's Disease,0.646,Phase2,False,0.72,9,40,1
+Hydroxychloroquine,Malaria,Rheumatoid Arthritis,0.856,Phase2,False,10.73,6,50,1
+Hydroxychloroquine,Malaria,Lupus (SLE),0.411,Phase2,False,3.88,6,30,1
+Methotrexate,Leukemia,Rheumatoid Arthritis,0.533,Discovery,False,2.74,9,5,1
+Methotrexate,Leukemia,Psoriasis,0.749,Discovery,False,0.8,8,50,1
+Finasteride,BPH,Hair Loss,0.919,Phase2,False,0.8,10,30,1
+Duloxetine,Depression,Neuropathic Pain,0.734,Phase3,False,1.51,7,10,1
+Bupropion,Depression,Smoking Cessation,0.507,Phase1,False,3.59,8,30,1
+Gabapentin,Epilepsy,Neuropathic Pain,0.761,Discovery,False,3.12,5,10,1
+Pregabalin,Epilepsy,Fibromyalgia,0.346,Phase2,False,1.77,6,20,1
+Ketoconazole,Fungal Infection,Cushing's Syndrome,0.432,Discovery,False,0.34,8,15,1
+Spironolactone,Hypertension,Acne,0.885,Phase2,False,2.9,8,50,1
+Spironolactone,Hypertension,Hirsutism,0.355,Phase2,False,2.2,8,30,1
+Topiramate,Epilepsy,Migraine,0.801,Phase2,False,1.34,7,50,1
+Topiramate,Epilepsy,Obesity,0.863,Phase2,False,1.23,7,25,1
+Amantadine,Influenza,Parkinson's Disease,0.59,Discovery,False,1.2,10,25,1
+Gemcitabine,Antiviral,Cancer,0.443,Discovery,False,1.31,4,5,1
+Rituximab,Lymphoma,Rheumatoid Arthritis,0.402,Phase2,False,3.93,7,5,1
+Dimethyl fumarate,Psoriasis,Multiple Sclerosis,0.852,Phase3,False,3.68,7,8,1
+Fingolimod,Transplant Rejection,Multiple Sclerosis,0.453,Phase2,False,4.44,7,8,1
+Bromocriptine,Parkinson's,Diabetes Type 2,0.608,Phase3,False,0.53,6,30,1
+Colesevelam,Hypercholesterolemia,Diabetes Type 2,0.756,Phase3,False,3.1,4,15,1
+Milnacipran,Depression,Fibromyalgia,0.87,Phase3,False,0.8,7,5,1
+Dapoxetine,Depression,Premature Ejaculation,0.392,Phase2,False,3.1,8,15,1
+Aspirin,Pain,Cardiovascular Prevention,0.312,Phase3,False,2.33,10,15,1
+Botulinum Toxin,Strabismus,Migraine,0.622,Discovery,False,0.79,8,40,1
+Botulinum Toxin,Strabismus,Cosmetic Wrinkles,0.351,Discovery,False,5.7,9,8,1
+Pemetrexed,Cancer,Mesothelioma,0.93,Phase2,False,3.16,8,50,1
+Imatinib,CML,GIST,0.562,Phase2,False,0.62,9,20,1
+Metformin,Diabetes,Cancer,0.817,Phase3,False,0.37,8,15,0
+Ivermectin,Parasites,COVID-19,0.838,Phase3,False,0.35,4,5,0
+Hydroxychloroquine,Malaria,COVID-19,0.427,Phase3,False,1.26,3,8,0
+Lopinavir/Ritonavir,HIV,COVID-19,0.356,Phase3,False,0.56,5,10,0
+Canakinumab,Arthritis,Lung Cancer (NSCLC),0.586,Phase3,False,0.46,5,15,0
+Canakinumab,Arthritis,Cardiovascular Disease,0.519,Phase3,False,1.88,7,5,0
+Verdiperstat,MSA,ALS,0.443,Phase3,False,6.16,5,25,0
+Azeliragon,Alzheimer's,Diabetic Nephropathy,0.835,Phase2,False,1.12,5,8,0
+Lonafarnib,Progeria,Solid Tumors,0.489,Phase2,False,1.97,5,10,0
+Rosiglitazone,Diabetes,Cancer,0.647,Phase2,False,1.37,4,20,0
+Pioglitazone,Diabetes,Cancer,0.83,Phase2,False,0.9,5,20,0
+Latrepirdine,Allergy,Alzheimer's,0.689,Phase2,False,1.31,5,20,0
+Lithium,Bipolar,ALS,0.318,Phase2,False,0.16,5,25,0
+Ceftriaxone,Antibacterial,ALS,0.682,Phase3,False,0.81,6,25,0
+Minocycline,Antibacterial,ALS,0.416,Phase3,False,0.44,4,50,0
+Erythropoietin,Anemia,Stroke,0.643,Phase3,False,0.39,6,30,0
+Progesterone,Support Pregnancy,Traumatic Brain Injury,0.453,Phase3,False,0.56,7,50,0
+Magnesium Sulfate,Eclampsia,Stroke,0.566,Phase3,False,1.17,5,10,0
+Albumin,Volume Expansion,Stroke,0.428,Phase3,False,1.14,5,10,0
+Simvastatin,Hypercholesterolemia,Multiple Sclerosis,0.538,Phase2,False,0.5,5,25,0
+Rofecoxib,Pain,Cancer Prevention,0.511,Phase3,False,0.49,6,40,0
+Aprepitant,Nausea,Depression,0.655,Phase3,False,0.77,5,30,0
+Mifepristone,Abortion,Psychotic Depression,0.212,Phase3,False,6.76,6,40,0
+Saracatinib,Cancer,Alzheimer's,0.781,Phase2,False,4.37,6,10,0
+Intravenous Immunoglobulin,Immune Deficiency,Alzheimer's,0.681,Phase3,False,0.53,4,20,0
+Gefitinib,Lung Cancer,Breast Cancer,0.284,Phase2,True,0.91,3,5,0
+Everolimus,Transplant,Hepatocellular Carcinoma,0.285,Phase3,False,1.29,5,40,0
+Sunitinib,Cancer,Breast Cancer,0.838,Phase3,True,0.28,4,30,0
+Sorafenib,Cancer,Lung Cancer,0.631,Phase3,True,0.39,5,50,0
+Bevacizumab,Cancer,Gastric Cancer,0.373,Phase3,True,1.2,6,5,0

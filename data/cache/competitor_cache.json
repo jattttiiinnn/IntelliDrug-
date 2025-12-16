@@ -1,0 +1,3674 @@
+{
+  "search_Metformin_drug": {
+    "timestamp": "2025-12-15T21:33:03.998670",
+    "data": []
+  },
+  "search_Diabetes_indication": {
+    "timestamp": "2025-12-15T21:33:05.599917",
+    "data": []
+  },
+  "api_drug_Metformin": {
+    "timestamp": "2025-12-15T21:40:00.419024",
+    "data": [
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes Mellitus in Pregnancy, Diabetes, Gestational",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2021-07-08",
+        "sponsor": "University of Southern California",
+        "title": "Tight Versus Standard Glycemic Targets for Pregnant Women With Gestational Diabetes and Type 2 Diabetes",
+        "nct_id": "NCT04672031"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes, Diabetes Mellitus, Type 2",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2008-01",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "A 16 Week Randomised, Open Labelled, 3-armed, Parallel Group, Treat-to-target Trial Comparing Twice Daily (BID) Injections of SIAC 30 (B), SIAC 45 (B) and NovoMix\u00ae30, All in Combination With Metformin in Subjects With Type 2 Diabetes Failing on OAD Treatment",
+        "nct_id": "NCT00613951"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Type 2 Diabetes Mellitus",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2011-01",
+        "sponsor": "Skane University Hospital",
+        "title": "Metformin Treatment, Renal Function and Lactic Acidosis. A Population Based",
+        "nct_id": "NCT01358994"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Type 2 Diabetes Mellitus",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2017-02-28",
+        "sponsor": "Takeda",
+        "title": "Specified Drug-Use Survey of Alogliptin and Metformin Hydrochloride Combination Tablets \"Survey on Long-term Use in Type 2 Diabetes Mellitus Patients With Renal or Hepatic Impairment or Advanced Age\"",
+        "nct_id": "NCT03555565"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Colorectal Neoplasms, Adenocarcinoma",
+        "phase": "PHASE2",
+        "status": "UNKNOWN",
+        "start_date": "2015-09-01",
+        "sponsor": "Barretos Cancer Hospital",
+        "title": "Phase II Trial of Metformin Combined to Irinotecan for Refractory Metastatic or Recurrent Colorectal Cancer",
+        "nct_id": "NCT01930864"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Hypogonadism, Obesity",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2013-07-04",
+        "sponsor": "Fundaci\u00f3n P\u00fablica Andaluza para la Investigaci\u00f3n de M\u00e1laga en Biomedicina y Salud",
+        "title": "Randomized, Double-blind, Parallel, Placebo-controlled, Clinical Trial to Assess the Efficacy of Testosterone, Metformin, or Both, for the Treatment of Obesity-induced Male Hypogonadism",
+        "nct_id": "NCT02514629"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Chronic Kidney Disease, Diabetes Mellitus, Type 2",
+        "phase": "PHASE2, PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2021-04-13",
+        "sponsor": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy",
+        "title": "Single-center, Randomized, Controlled Study to Evaluate the Effects of a Six-month Treatment With Renal Glucose Transport Inhibitor (SGLT2i) Drugs on Markers of Senescence, Inflammation and Tubulointerstitial Damage in the Kidney of Patients With Chronic Kidney Disease With or Without Type 2 Diabetes",
+        "nct_id": "NCT05998837"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Bone Diseases, Metabolic, Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2021-02-01",
+        "sponsor": "Kyung Hee University Hospital at Gangdong",
+        "title": "A Multicenter Randomized Exploratory Clinical Trial to Evaluate the Effect of Bone Metabolism and the Efficacy of Evogliptin and Dapagliflozin for Blood Sugar in the Menopause Female Patients With Osteopenia and Type 2 Diabetes",
+        "nct_id": "NCT04706637"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes, Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2006-05",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "Effect on Glycemic Control of Liraglutide in Combination With Rosiglitazone Plus Metformin Versus Rosiglitazone Plus Metformin in Subjects With Type 2 Diabetes",
+        "nct_id": "NCT00333151"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes Mellitus Type 2",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2009-12",
+        "sponsor": "Hoffmann-La Roche",
+        "title": "A Randomized, Double-blind, Placebo-controlled, Titration Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of a Single Dose and Escalating Doses of RO5095932 in Patients With Type 2 Diabetes Mellitus on Stable Background Therapy",
+        "nct_id": "NCT01017302"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Gestational Diabetes",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2020-11-15",
+        "sponsor": "Women and Infants Hospital of Rhode Island",
+        "title": "A Pragmatic Approach to Lowering the Risk of Diabetes Mellitus After A Diagnosis of Gestational Diabetes Mellitus",
+        "nct_id": "NCT04615351"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Posterior Fossa Ependymal Tumor",
+        "phase": "PHASE2",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2026-02-28",
+        "sponsor": "University of California, San Francisco",
+        "title": "A Target Validation and Efficacy Study of Metformin in Patients With Recurrent or Progressive Posterior Fossa Group A (PFA) Ependymoma",
+        "nct_id": "NCT07226453"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2016-10-14",
+        "sponsor": "Takeda",
+        "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Alogliptin Compared With Placebo in Pediatric Subjects With Type 2 Diabetes Mellitus",
+        "nct_id": "NCT02856113"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Diabetes Mellitus Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2016-04",
+        "sponsor": "Institut f\u00fcr Pharmakologie und Pr\u00e4ventive Medizin",
+        "title": "ELMI - Prospective, Randomized, Controlled, Parallel-arm Study to Assess the Effects of the Combined Therapy of Empagliflozin and Linagliptin Compared to Metformin and Insulin Glargine on Renal and Vascular Changes in Type 2 Diabetes",
+        "nct_id": "NCT02752113"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Obesity, Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2000-10",
+        "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+        "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study of the Efficacy and Safety of Topiramate in the Treatment of Obese, Type 2 Diabetic Patients Treated With Metformin",
+        "nct_id": "NCT00231660"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Type 2 Diabetes Mellitus",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2012-12-05",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "title": "A Multicenter, Phase III, Randomized, Placebo-Controlled Trial to Assess the Safety and Efficacy of MK-3102 Monotherapy in Subjects With Type 2 Diabetes Mellitus and Inadequate Glycemic Control",
+        "nct_id": "NCT01717313"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Type II Diabetes",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2001-06",
+        "sponsor": "Sandoz",
+        "title": "A Relative Bioavailability Study of Metformin HCL 500 mg XR Tablets Under Fasting Conditions",
+        "nct_id": "NCT00882882"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Infertility, Female",
+        "phase": "PHASE2",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2023-08-30",
+        "sponsor": "Medical University of Bialystok",
+        "title": "A Randomized, Controlled, Double-blind Study Clinical Trials Evaluating the Effect of Metformin Treatment on Function Endometrium in Women Diagnosed With Idiopathic Infertility",
+        "nct_id": "NCT06012682"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Postoperative Chronic Pain",
+        "phase": "Not Specified",
+        "status": "UNKNOWN",
+        "start_date": "2019-09-10",
+        "sponsor": "Xuzhou Medical University",
+        "title": "Effect of Metformin on Chronic Pain After Thoracic Surgery in Diabetic Patients",
+        "nct_id": "NCT04089813"
+      },
+      {
+        "drug_name": "Metformin",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2013-06",
+        "sponsor": "Seoul National University Hospital",
+        "title": "A Open-label, Single Sequence Clinical Trial to Investigate the Pharmacokinetic/Pharmacodynamic Drug-drug Interaction of Pyrimethamine and Metformin IR After Oral Administration in Healthy Male Volunteers",
+        "nct_id": "NCT01973933"
+      }
+    ]
+  },
+  "api_cond_Diabetes": {
+    "timestamp": "2025-12-15T21:40:03.253263",
+    "data": [
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2024-10-01",
+        "sponsor": "California Polytechnic State University-San Luis Obispo",
+        "title": "The Effect of Low Water Intake on Glucose Regulation Measured Using Continuous Glucose Monitoring in a Free-Living Environment",
+        "nct_id": "NCT06645431"
+      },
+      {
+        "drug_name": "BGM0504, BGM0504, BGM0504, BGM0504",
+        "indication": "Diabetes",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-05-08",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Multi-center, Single-dose, Open-label, Parallel Design, Pharmacokinetics Study of BGM0504 Injection in Healthy Participants and Participants With Impaired Renal Function",
+        "nct_id": "NCT06929156"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2018-10-25",
+        "sponsor": "Charles Drew University of Medicine and Science",
+        "title": "Predicting Diabetic Retinopathy From Risk Factor Data and Digital Retinal Images",
+        "nct_id": "NCT03694145"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2021-08-06",
+        "sponsor": "University of California, San Diego",
+        "title": "A Phase 1, Open-Label Study to Investigate the Dosimetry of Tc-99m-Tilmanocept Following a Single Intravenous Dose Administration in Women and Men Suspected of Diabetic Nephropathy.",
+        "nct_id": "NCT05241522"
+      },
+      {
+        "drug_name": "Sinemet CR, placebo",
+        "indication": "Diabetes",
+        "phase": "EARLY_PHASE1",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2022-07-01",
+        "sponsor": "VA Office of Research and Development",
+        "title": "Treating Early Stage Diabetic Retinopathy",
+        "nct_id": "NCT05132660"
+      },
+      {
+        "drug_name": "MET097 Injection, Placebo",
+        "indication": "Diabetes",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-03-14",
+        "sponsor": "Metsera",
+        "title": "A Phase 2b, Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Once-Weekly MET097 in Adults With Obesity or Overweight, and Type 2 Diabetes Mellitus (VESPER-2)",
+        "nct_id": "NCT06897202"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-06-24",
+        "sponsor": "Baqai Institute of Diabetology and Endocrinology",
+        "title": "Engagement of coMmunity Through Participatory Learning and Action for cOntrol and preVEntion of Type II Diabetes and Its Risk Factors [EMPOWER-D]: Feasibility Trial in Urban Pakistan",
+        "nct_id": "NCT06570057"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2025-07-11",
+        "sponsor": "University of Oxford",
+        "title": "UK Islet Autoantibody Registry",
+        "nct_id": "NCT07125365"
+      },
+      {
+        "drug_name": "Apelin, Relaxin, Normal saline",
+        "indication": "Diabetes",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2018-03-28",
+        "sponsor": "Cambridge University Hospitals NHS Foundation Trust",
+        "title": "A Series of Pilot Studies to Evaluate the Haemodynamic and Metabolic Effects of Apelin and Relaxin in Healthy Humans, Subjects With Increased Weight and Patients With Type 2 Diabetes Mellitus",
+        "nct_id": "NCT03449251"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2021-12-15",
+        "sponsor": "Compedica Inc",
+        "title": "A Multi-center, Randomized Controlled Clinical Investigation Evaluating Wound Closure with OptiPulse\u2122 Versus Standard of Care in the Treatment of Non-Healing Diabetic Foot Ulcers",
+        "nct_id": "NCT05193929"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-05-20",
+        "sponsor": "Xie Kangjie",
+        "title": "Predictive Effect of TGF-\u03b2 Combined With INS-PI3K-AKT Signaling Pathway Related Proteins (ADNP, MAP6, Pgc-1\u03b1) for POD in Diabetes Patients",
+        "nct_id": "NCT06426953"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2025-10-09",
+        "sponsor": "National Taiwan University Hospital",
+        "title": "Cohort Study of Patients With Type 2 Diabetes",
+        "nct_id": "NCT07245082"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2025-03-31",
+        "sponsor": "Hywel Dda Health Board",
+        "title": "Investigating the Metabolic and Lipidomic Profiles That Are Associated With Varying Grades of Diabetic Maculopathy and Retinopathy in South Wales",
+        "nct_id": "NCT06914778"
+      },
+      {
+        "drug_name": "NNC0363-1063, Placebo, Insulin degludec, Insulin detemir",
+        "indication": "Diabetes",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2024-11-12",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "A Study Investigating Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single and Multiple Doses of NNC0363-1063 in Healthy Participants and Participants With Type 1 Diabetes",
+        "nct_id": "NCT06685185"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-03-06",
+        "sponsor": "Cleerly, Inc.",
+        "title": "A Randomized Comparison of Cleerly Coronary Artery Disease Stage-Based Care Versus Risk Factor-Based Care for Primary Prevention of Cardiovascular Events",
+        "nct_id": "NCT06112418"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2025-02-13",
+        "sponsor": "Cairo University",
+        "title": "Neuropathy and Foot Ulcer_ Specific Quality of Life Instrument (Neuro QOL) Arabic Version: Cross-cultural Adaptation, Validity, and Reliability for Patients With Type 2 Diabetes",
+        "nct_id": "NCT06483620"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-10-20",
+        "sponsor": "Medtronic Vascular",
+        "title": "The SPYRAL AFFIRM Global Clinical Study of Renal Denervation With the Symplicity Spyral Renal Denervation System in Subjects With Uncontrolled Hypertension (SPYRAL AFFIRM)",
+        "nct_id": "NCT05198674"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2019-10-01",
+        "sponsor": "Johns Hopkins University",
+        "title": "Optical Coherence Tomography Angiography in Subjects With Retinal Vascular Disease",
+        "nct_id": "NCT04505618"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-07-12",
+        "sponsor": "Ernanda Mezaroba",
+        "title": "Effectiveness of Health Literacy in Patients With Type 2 Diabetes Mellitus on a Primary Health Care Protocol: a Randomized Pragmatic Trial",
+        "nct_id": "NCT07045662"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Diabetes",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2025-05-06",
+        "sponsor": "U\u015fak University",
+        "title": "The Effect of Emotional Freedom Technique on Psychological Health and Well-being in People With Type 2 Diabetes.",
+        "nct_id": "NCT07057518"
+      }
+    ]
+  },
+  "api_cond_NASH": {
+    "timestamp": "2025-12-15T21:48:00.840494",
+    "data": [
+      {
+        "drug_name": "ALN-HSD, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-02-09",
+        "sponsor": "Regeneron Pharmaceuticals",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study of siRNA Gene Silencing for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis (MASH) in Participants With Genetic Risk Factors",
+        "nct_id": "NCT05519475"
+      },
+      {
+        "drug_name": "Synthroid, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-04-01",
+        "sponsor": "VA Office of Research and Development",
+        "title": "Low Dose Thyroid Hormone, Mitochondrial Fatty Acid Oxidation, and Treatment of Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT05526144"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG, Placebo Oral Tablet",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-01-27",
+        "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+        "title": "Mechanisms of SGLT2 Inhibition in Pediatric Steatotic Liver Disease",
+        "nct_id": "NCT06355310"
+      },
+      {
+        "drug_name": "Atorvastatin, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-01-25",
+        "sponsor": "Mayo Clinic",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Clinical Trial to Evaluate the Safety and Efficacy of Statins in Adult Patients With Non-Alcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT04679376"
+      },
+      {
+        "drug_name": "GODEX, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE3",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2023-09-25",
+        "sponsor": "Yoon Jun Kim",
+        "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter, Prospective Comparative, Investigator-initiated Clinical Trial to Evaluate the Efficacy of Carnitine Orotate Complex _Godex\u00ae in Patients With Nonalcoholic Fatty Liver Disease",
+        "nct_id": "NCT06152991"
+      },
+      {
+        "drug_name": "Semaglutide, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-04-01",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "The Effect of Semaglutide in Subjects With Non-cirrhotic Non-alcoholic Steatohepatitis",
+        "nct_id": "NCT04822181"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-01-14",
+        "sponsor": "Joslin Diabetes Center",
+        "title": "Assessing the Prevalence of Nonalcoholic Fatty Liver Disease and Advanced Fibrosis in Patients With Type 1 Diabetes Using Vibration-Controlled Transient Elastography and Noninvasive Scores",
+        "nct_id": "NCT04595474"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2023-11-22",
+        "sponsor": "AstraZeneca",
+        "title": "Non-alcoholic Steatohepatitis Registry Platform Study",
+        "nct_id": "NCT06123858"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2017-09-01",
+        "sponsor": "Copenhagen University Hospital, Hvidovre",
+        "title": "Fatty Liver Disease in Nordic Countries (FLINC): a Prospective Cohort Study",
+        "nct_id": "NCT04340817"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2015-09-22",
+        "sponsor": "University of Trieste",
+        "title": "Identification of New Biomarkers in the Diagnosis and Prognosis of Non-alcoholic Fatty Liver Disease and Correlation With Ultrasound and Elastographic Findings",
+        "nct_id": "NCT06098417"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-05-01",
+        "sponsor": "University Hospital, Ghent",
+        "title": "Comparison Between the Efficacy of Residential and Ambulatory Weight Loss Programs for Pediatric Non-alcoholic Fatty Liver Disease",
+        "nct_id": "NCT05309863"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2022-04-28",
+        "sponsor": "Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis",
+        "title": "Evaluation of Gut Permeability in Patients Affected by Obesity and NAFLD: Influence of Ketogenic Diet on Diagnostic and Prognostic Markers in Liver Disease",
+        "nct_id": "NCT05477212"
+      },
+      {
+        "drug_name": "Miricorilant (Cohort A), Placebo (Cohort A), Miricorilant (Cohort B), Placebo (Cohort B)",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-10-25",
+        "sponsor": "Corcept Therapeutics",
+        "title": "A Phase 2b, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Miricorilant in Adult Patients With Nonalcoholic Steatohepatitis/Metabolic Dysfunction-Associated Steatohepatitis (MONARCH)",
+        "nct_id": "NCT06108219"
+      },
+      {
+        "drug_name": "Rifaximin (Xifaxan)",
+        "indication": "NASH",
+        "phase": "EARLY_PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2024-08-10",
+        "sponsor": "Shanghai Changzheng Hospital",
+        "title": "Efficacy and Safety of Rifaximin in Treating Metabolic Associated Fatty Liver Disease: A Pilot Trial",
+        "nct_id": "NCT07185932"
+      },
+      {
+        "drug_name": "Incretin-Based Therapy",
+        "indication": "NASH",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2024-07-11",
+        "sponsor": "Ali Aminian",
+        "title": "A Prospective Multicenter International Randomized Controlled Trial Comparing Surgical and Medical Therapies in the Treatment of Advanced Metabolic Dysfunction Associated Steatohepatitis",
+        "nct_id": "NCT06374875"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-04-29",
+        "sponsor": "University Hospital Ostrava",
+        "title": "Influence of Bariatric Endoscopy on Clinical Course of NAFLD",
+        "nct_id": "NCT04895943"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2019-04-01",
+        "sponsor": "Chinese University of Hong Kong",
+        "title": "Change of Adipose Tissues and Triglyceride in Obese Patients With Non-alcoholic Fatty Liver Disease After Bariatric Surgery or Life-style Intervention",
+        "nct_id": "NCT03875625"
+      },
+      {
+        "drug_name": "18F-DPA-714, 18F-FDG",
+        "indication": "NASH",
+        "phase": "EARLY_PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-04-30",
+        "sponsor": "University of California, Davis",
+        "title": "NeuroFLiPP - Parametric PET of Neuroinflammation in Fatty Liver Disease",
+        "nct_id": "NCT06453915"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-09-30",
+        "sponsor": "Hacettepe University",
+        "title": "The Effect of Aerobic and Resistant Exercise Training on Hepatic Functions, Inflammatory Markers and Functional Capacity in Patients With Non-Alcoholic Steatohepatitis",
+        "nct_id": "NCT05065593"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-09-10",
+        "sponsor": "Cairo University",
+        "title": "Lifestyle Changes in Fatty Liver; Additive Effect of Honey Intake",
+        "nct_id": "NCT06596109"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-07-01",
+        "sponsor": "Wuxi Hisky Medical Technology Co Ltd",
+        "title": "Prevalence of Metabolic Associated Fatty Liver Disease in Patients With Type 2 Diabetes in Jiangsu Province of China: a Prospective, Multicenter, Real-world Study",
+        "nct_id": "NCT05597709"
+      },
+      {
+        "drug_name": "Rencofilstat, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-15",
+        "sponsor": "Hepion Pharmaceuticals, Inc.",
+        "title": "A Phase 2B, Randomized, Multi-Center, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Rencofilstat in Adult Subjects With Nonalcoholic Steatohepatitis and Advanced Liver Fibrosis",
+        "nct_id": "NCT05402371"
+      },
+      {
+        "drug_name": "Survodutide, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2024-10-14",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Randomised, Double-blind, Placebo-controlled, Multicentre, Phase III Trial Evaluating Long-term Efficacy and Safety of Survodutide Weekly Injections in Adult Participants With Noncirrhotic Non-alcoholic Steatohepatitis/Metabolic Dysfunction-associated Steatohepatitis (NASH/MASH) and (F2) - (F3) Stage of Liver Fibrosis",
+        "nct_id": "NCT06632444"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2019-01-21",
+        "sponsor": "Medical University of Vienna",
+        "title": "Cold-induced Brown Fat Activation and Hepatic Steatosis",
+        "nct_id": "NCT03811236"
+      },
+      {
+        "drug_name": "Goserelin Acetate 3.6 mg inj, implant",
+        "indication": "NASH",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2024-11-26",
+        "sponsor": "Aristotle University Of Thessaloniki",
+        "title": "Effect of the Pharmacological Cessation of Menstruation with a GnRH Analog on Hepatic Steatosis in Women with Endometriosis",
+        "nct_id": "NCT06523530"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2025-03-20",
+        "sponsor": "Uppsala University",
+        "title": "A Healthy Nordic Diet to Reduce the Progression of Atherosclerosis in Individuals with Coronary Heart Disease: a Secondary Prevention Trial",
+        "nct_id": "NCT06701968"
+      },
+      {
+        "drug_name": "EFX, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-07-30",
+        "sponsor": "Akero Therapeutics, Inc",
+        "title": "A Phase 2b, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Efficacy of Efruxifermin in Subjects With Compensated Cirrhosis Due to Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT05039450"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-05-17",
+        "sponsor": "GenieBiome Limited",
+        "title": "A Double-blind Randomized Placebo-controlled Study to Evaluate the Effect of Synbiotics SLP07 on Metabolic Dysfunction-Associated Fatty Liver Disease (MAFLD-RCT)",
+        "nct_id": "NCT06537882"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2023-12-01",
+        "sponsor": "Assiut University",
+        "title": "Role of Regulatory B Cells in the Pathogenesis of Metabolic Associated Fatty Liver Disease",
+        "nct_id": "NCT04720560"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2013-05",
+        "sponsor": "John Sievenpiper",
+        "title": "Effect of Substituting Plant Protein for Animal-Protein on Cardiometabolic Risk: A Series of Systematic Reviews and Meta-Analyses of Controlled Feeding Trials to Provide Evidence-Based Guidance for Nutrition Guidelines Development",
+        "nct_id": "NCT02037321"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2020-10-26",
+        "sponsor": "Hasselt University",
+        "title": "Screening for Non-Alcoholic Fatty Liver Disease (NAFLD) in a General Practitioner Population, in Flanders, Belgium.",
+        "nct_id": "NCT04647409"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-01-18",
+        "sponsor": "Emory University",
+        "title": "Non-Invasive Diagnostic Tests for MASLD in Pediatric Population at an Outpatient Clinic: Velacur and Blood-based Novel Tests",
+        "nct_id": "NCT06218589"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-08-01",
+        "sponsor": "Bettina Mittendorfer",
+        "title": "Harnessing Macrophage Lysosomal Lipid Metabolism in Obesity-Associated Diseases",
+        "nct_id": "NCT06571474"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2016-07",
+        "sponsor": "Target PharmaSolutions, Inc.",
+        "title": "A Longitudinal Observational Study of Patients With Nonalcoholic Steatohepatitis (NASH) and Related Conditions Across the Entire Spectrum of Nonalcoholic Fatty Liver Disease (NAFLD)",
+        "nct_id": "NCT02815891"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2023-05-01",
+        "sponsor": "The University of Hong Kong",
+        "title": "Effectiveness of Ambulatory Liver Fat Monitoring in Improvement of Hepatic Steatosis in Patients With Non-alcoholic Fatty Liver Disease: a Multi-center Randomized Controlled Trial",
+        "nct_id": "NCT05754385"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-12-06",
+        "sponsor": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+        "title": "CHronic Hepatopathies Associated with ALcohol Consumption and MetAbolic Syndrome",
+        "nct_id": "NCT05623150"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2021-09-27",
+        "sponsor": "Pontificia Universidad Catolica de Chile",
+        "title": "Cardiovascular Diseases (CVD) and Nonalcoholic Fatty Liver Diseases (NAFLD) Among Gallstone and Cholecystectomy Patients and the Impact of a Novel Diet and Muscle Training Program",
+        "nct_id": "NCT05618626"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-04-01",
+        "sponsor": "Shanghai East Hospital",
+        "title": "The Ameliorative Effect of C-Kit (+) Hepatic Endothelial Cells With Mertk Deficiency on Nonalcoholic Steatohepatitis",
+        "nct_id": "NCT06913699"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2021-07-01",
+        "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "title": "Human Liver ORganoids as a Model to Study the Role of the I148M Variant of the PNPLA3 Gene in the Development of Non-Alcoholic SteatOhepatitis (NASH)",
+        "nct_id": "NCT06856252"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-09-01",
+        "sponsor": "Franciscus Gasthuis",
+        "title": "The Franciscus Obesity NASH Study",
+        "nct_id": "NCT05499949"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2009-01-05",
+        "sponsor": "Pacific Coast Family Medical Group",
+        "title": "Physiology of Disease Prevention Observational Study in Clinical Practice",
+        "nct_id": "NCT03308773"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-10-19",
+        "sponsor": "Maastricht University",
+        "title": "Efficacy of Isocaloric Mediterranean Diet and Low-fat Diet in Overweight/Obese MASLD Subjects With Respect to PNPLA3 Single Nucleotide Polymorphism: A Randomized Controlled Trial",
+        "nct_id": "NCT06220695"
+      },
+      {
+        "drug_name": "Diazoxide oral suspension, 1 mg per kg per dose, Diazoxide oral suspension, 2 mg per kg per dose, Placebo, Deuterated water (2H2O/D2O)",
+        "indication": "NASH",
+        "phase": "PHASE1",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-08-01",
+        "sponsor": "Columbia University",
+        "title": "Role of Hyperinsulinemia in Non-Alcoholic Fatty Liver Disease (NAFLD) Pathogenesis: Diazoxide Pilot & Feasibility Study",
+        "nct_id": "NCT05729282"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-02-02",
+        "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+        "title": "Focused Power Ultrasound Mediated Inferior Perirenal Adipose Tissue Modification Therapy for Non-Alcoholic Fatty Liver Disease: a Randomized Controlled Trial (PARADISE-NAFLD)",
+        "nct_id": "NCT06225713"
+      },
+      {
+        "drug_name": "HSK31679 80mg, HSK31679 160mg, Placebo",
+        "indication": "NASH",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-11-23",
+        "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+        "title": "A Multicenter, Double-blind, Placebo Randomized , Phase2b Study to Evaluate the Efficacy and Safety of HSK31679 in Chinese Patients With Non-Alcoholic Steatohepatitis (NASH).",
+        "nct_id": "NCT06168383"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-05-01",
+        "sponsor": "Tanta University",
+        "title": "NAFLD Stigma vs MAFLD Stigma and Their Impact on Quality of Life in Egyptian Patients: A Survey Study",
+        "nct_id": "NCT06503068"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2021-01-14",
+        "sponsor": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+        "title": "\"Constitution of a Biological Collection to Establish Preclinical Translational Models for the Study of Tumors and Chronic Liver Diseases\".",
+        "nct_id": "NCT04690972"
+      },
+      {
+        "drug_name": "Glucagon response study",
+        "indication": "NASH",
+        "phase": "PHASE1, PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-20",
+        "sponsor": "Adrian Vella",
+        "title": "The Effects of Glucagon on Hepatic Metabolism",
+        "nct_id": "NCT05500586"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "Not Specified",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2023-08-24",
+        "sponsor": "Helsinki University Central Hospital",
+        "title": "Risk Factors for Advanced Fibrosis Among Fatty Liver Disease Patients Identified Through Pharese-screening of Miaging Reports",
+        "nct_id": "NCT05971082"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "NASH",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-30",
+        "sponsor": "University of Eastern Finland",
+        "title": "Dietary Counseling Coupled With Fecal Microbiota Transplantation in the Treatment of Obesity and Non-alcoholic Fatty Liver Disease - the DIFTOB Study",
+        "nct_id": "NCT05607745"
+      }
+    ]
+  },
+  "api_drug_Experimental": {
+    "timestamp": "2025-12-15T21:48:02.316367",
+    "data": [
+      {
+        "drug_name": "Experimental",
+        "indication": "Caregiver Stress",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2023-07-27",
+        "sponsor": "Photozig, Inc.",
+        "title": "Mindfulness-based Cognitive Coping Mobile App Intervention for Caregivers of Individuals With Alzheimer's Disease",
+        "nct_id": "NCT05979922"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Chronic Hepatitis C, Hepatitis C Virus",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2014-04",
+        "sponsor": "AbbVie",
+        "title": "An Open-Label Pilot Study to Evaluate the Antiviral Activity, Safety, Tolerability, and Pharmacokinetics of ABT-450 With Ritonavir (ABT-450/r) Dosed in Combination With ABT-530, With and Without Ribavirin (RBV) in Treatment-Na\u00efve Subjects With Genotype 3 Chronic Hepatitis C Virus (HCV) Infection",
+        "nct_id": "NCT02068222"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Infertility",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2009-12",
+        "sponsor": "Royan Institute",
+        "title": "Reduction of Sperm DNA Fragmentation by Oral Ginger (Zingiberofficinale) Extract Treatment",
+        "nct_id": "NCT02032251"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Peripheral Arterial Disease",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2014-10",
+        "sponsor": "Flanders Medical Research Program",
+        "title": "BeSmooth Study, a Physician-initiated PMCF Trial Investigating the BeSmooth Peripheral Stent System for the Treatment of Iliac Lesions",
+        "nct_id": "NCT02690051"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Healthy, Immunogenicity of ASP7374",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2011-05",
+        "sponsor": "UMN Pharma Inc.",
+        "title": "Study for Immunogenicity and Safety of ASP7374 for Subcutaneous and Intramuscular Vaccination in Healthy Adults",
+        "nct_id": "NCT01393951"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "HER2 Positive Metastatic Breast Cancer",
+        "phase": "PHASE2",
+        "status": "UNKNOWN",
+        "start_date": "2018-11-20",
+        "sponsor": "Henan Cancer Hospital",
+        "title": "Pyrotinib Plus Capecitabine in Patients With Brain Metastases From HER2-positive Metastatic Breast Cancer : a Single-arm, Open-label, Ahead Study",
+        "nct_id": "NCT03691051"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Helicobacter Pylori, the Operative Link on Gastric Intestinal Metaplasia",
+        "phase": "PHASE4",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2016-10",
+        "sponsor": "Shandong University",
+        "title": "The Influence of Helicobacter Pylori Eradication on Gastric Pathology: a Long-term, Prospective Cohort Study",
+        "nct_id": "NCT02933229"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Graft Versus Host Disease",
+        "phase": "PHASE1",
+        "status": "WITHDRAWN",
+        "start_date": "2015-08-06",
+        "sponsor": "Everett Meyer",
+        "title": "A Phase 1 Single Center Safety and Feasibility Study of Primary T Regulatory Cell Therapy to Treat Visceral Acute Graft-versus-Host Disease Following Hematopoietic Cell Transplantation",
+        "nct_id": "NCT02526329"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Secrecy Versus Disclosure Among Adolescents With Mental Illness",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2016-05",
+        "sponsor": "University of Ulm",
+        "title": "Adaptation and Evaluation of the Honest Open Proud Program for Adolescents With Mental Illness",
+        "nct_id": "NCT02751229"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Malaria, Respiratory Infections",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2014-05",
+        "sponsor": "London School of Hygiene and Tropical Medicine",
+        "title": "A Trial of Seasonal Malaria Chemoprevention Plus Azithromycin in African Children",
+        "nct_id": "NCT02211729"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Alveolar Bone Loss",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2017-05-15",
+        "sponsor": "International Piezosurgery Academy",
+        "title": "Wedge Implant for Minimally Invasive Treatment of Narrow Crests: a Prospective Multi-center Clinical Study",
+        "nct_id": "NCT03290729"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Sarcoma",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2018-01-23",
+        "sponsor": "Memorial Sloan Kettering Cancer Center",
+        "title": "Phase II Study of Epacadostat (INCB024360) in Combination With Pembrolizumab in Patients With Locally Advanced/Metastatic Sarcoma",
+        "nct_id": "NCT03414229"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Misadventure During Endoscopic Examination",
+        "phase": "NA",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2024-04-03",
+        "sponsor": "Suleyman Demirel University",
+        "title": "The Effects of Glass Waterfall and White Noise on Pain, Anxiety and Physiological Parameters During Gastroscopy",
+        "nct_id": "NCT06333431"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Pancreatic Cancer",
+        "phase": "PHASE2",
+        "status": "UNKNOWN",
+        "start_date": "2011-06",
+        "sponsor": "Soroka University Medical Center",
+        "title": "Valproic Acid in Combination With Concurrent Chemoradiotherapy Using Gemcitabine for Unresectable Locally Advanced Pancreatic Cancer",
+        "nct_id": "NCT01333631"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2022-10-01",
+        "sponsor": "Idorsia Pharmaceuticals Ltd.",
+        "title": "A Single-center, Open-label, Fixed-sequence Study to Investigate the Effect of Multiple-dose Itraconazole on the Pharmacokinetics of a Single Dose of 10 mg ACT-1004-1239 in Healthy Male Subjects",
+        "nct_id": "NCT05549531"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Stroke",
+        "phase": "NA",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2025-03-24",
+        "sponsor": "Jing Tao",
+        "title": "Robot-Assisted Tai Chi for Upper Limb Rehabilitation in Post-Stroke Patients: a Randomized Controlled Trial on Motor Recovery",
+        "nct_id": "NCT06897631"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Non-small Cell Lung Cancer",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2024-08-09",
+        "sponsor": "Peking Union Medical College Hospital",
+        "title": "A Multicenter, Single-Arm Pilot Study of Immune Checkpoint Inhibitors in Patients With Locally Advanced or Metastatic Non-Small-Cell Lung Cancer Who Had Long-Term (Two Years or Longer) Response to First-Line Immunotherapy",
+        "nct_id": "NCT06388031"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Hypotension, Sepsis",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2016-09",
+        "sponsor": "Yale University",
+        "title": "Carotid Doppler Ultrasound for the Measurement of Intravascular Volume Status During Lower Body Negative Pressure Simulation",
+        "nct_id": "NCT02907931"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Heat Exposure, Labor Pain",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2020-04-01",
+        "sponsor": "Istanbul Demiroglu Bilim University",
+        "title": "The Effect of Heat Application to the Sacral Region During The First Stage of Labor On the Pain Level and the Obstetric Outcomes",
+        "nct_id": "NCT06297031"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Congenital Melanocytic Nevus",
+        "phase": "EARLY_PHASE1",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2022-01-01",
+        "sponsor": "Massachusetts General Hospital",
+        "title": "Neoadjuvant Squaric Acid Dibutylester Treatment of Melanocytes in Congenital Melanocytic Nevi",
+        "nct_id": "NCT04999631"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Chronic Conditions, Multiple",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2021-04-01",
+        "sponsor": "University of Colorado, Denver",
+        "title": "The Usability and Feasibility of Social Convoy Palliative Care (Convoy-Pal) Mobile Health for Older Adults",
+        "nct_id": "NCT04779931"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Chronic Pain",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2021-11-04",
+        "sponsor": "Aalborg University",
+        "title": "Keeping It Simple - Implementing Pain Education for All: a Clinical Cross-over Feasibility Study Among Chronic Pain Patients Referred to Community-based Rehabilitation",
+        "nct_id": "NCT05140031"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "CD19+ and CD 22+ B-ALL",
+        "phase": "EARLY_PHASE1",
+        "status": "UNKNOWN",
+        "start_date": "2021-08-15",
+        "sponsor": "Hebei Senlang Biotechnology Inc., Ltd.",
+        "title": "Safety and Efficacy of CD19/CD22 Dual Targeted CAR-T Cell Therapy in Patients With R/R B-Cell Acute Lymphoblastic Leukemia",
+        "nct_id": "NCT05225831"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Schizophrenia",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2010-04-22",
+        "sponsor": "Janssen Research & Development, LLC",
+        "title": "Safety, Tolerability, and Treatment Response of Paliperidone Palmitate in Subjects With Schizophrenia When Switching From Oral Antipsychotics",
+        "nct_id": "NCT01051531"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Retinal Vein Occlusion",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2012-03-28",
+        "sponsor": "National Eye Institute (NEI)",
+        "title": "A Pilot Study for the Evaluation of Minocycline as a Microglia Inhibitor in the Treatment of Branch Retinal Vein Occlusions",
+        "nct_id": "NCT01468831"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Autism Spectrum Disorder (ASD)",
+        "phase": "NA",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2025-08-25",
+        "sponsor": "Neurolab Plus",
+        "title": "Effects of cTBS on Sensory Integration in Children With Autism Spectrum Disorder: A Randomized, Sham-Controlled Study Integrating Genetic Markers, MRI, fNIRS, and Temporal Binding Tasks",
+        "nct_id": "NCT07182331"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Chronic Kidney Disease",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2013-04",
+        "sponsor": "Federico II University",
+        "title": "EFFECT OF SHORT-TERM TREATMENT WITH THE SYNBIOTIC PROBINUL-NEUTRO\u00ae ON GASTROINTESTINAL SYMPTOMS AND CIRCULATING PLASMA p-CRESOL LEVEL IN PATIENTS WITH CHRONIC RENAL FAILURE: A RANDOMIZED DOUBLE BLIND PILOT STUDY.",
+        "nct_id": "NCT02008331"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Resectable Pancreatic Adenocarcinoma, Pancreatic Cancer",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2004-06",
+        "sponsor": "Edward Nelson",
+        "title": "A Phase I Clinical Trial of GM-CSF Administration as a Biological Adjuvant in Clinically-Staged, Resectable Pancreatic Adenocarcinoma",
+        "nct_id": "NCT00600002"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Type 1 Diabetes",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2022-03-22",
+        "sponsor": "University of Alberta",
+        "title": "A Pilot Trial Evaluating a Device-Less Technique in Islet Transplantation",
+        "nct_id": "NCT05073302"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Epithelial Ovarian Cancer",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2015-06",
+        "sponsor": "Memorial Sloan Kettering Cancer Center",
+        "title": "Mirena\u00ae IUD's Effect on Fallopian Tube Fimbriae and Ovarian Cortical Inclusion Cyst Cell Proliferation",
+        "nct_id": "NCT02477202"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Sunscreening Agents",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2016-03-15",
+        "sponsor": "Bayer",
+        "title": "Sun Protection Factor (SPF) Assay: UVA Protection Factor Assay Minimal Persistent Pigment-Darkening Dose",
+        "nct_id": "NCT02739802"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Decision Support Systems, Clinical",
+        "phase": "NA",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2023-01",
+        "sponsor": "Escola Superior de Enfermagem de Coimbra",
+        "title": "Clinical Decision Support System for Remote Monitoring of Cardiovascular Disease Patients: Promoting Self-Management and Adherence to Treatment",
+        "nct_id": "NCT05196802"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Aging",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2013-04",
+        "sponsor": "Universidade Federal do Rio de Janeiro",
+        "title": "Effects of a Training Program Based on Abacus and Other Activities in Healthy Older Adults",
+        "nct_id": "NCT02897102"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Health Literacy, Hypertension",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2020-05-01",
+        "sponsor": "Huzhou Normal University",
+        "title": "Health Management Model Construction and Effect Evaluation of Hypertension Patients Based on Disease-related Health Literacy",
+        "nct_id": "NCT04327102"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Achievement, Weight Change",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2025-06-04",
+        "sponsor": "University of Illinois at Urbana-Champaign",
+        "title": "INTEGRATED CHILDHOOD ACTIVITY AND NUTRITION (ICAN) STUDY",
+        "nct_id": "NCT07011602"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Open Angle Glaucoma",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2017-11-25",
+        "sponsor": "iSTAR Medical",
+        "title": "A Prospective, Open, Multicentre Clinical Trial Analysing the Effectiveness and Safety of MINIject 636 in Patients With Open Angle Glaucoma Uncontrolled by Topical Hypotensive Medications",
+        "nct_id": "NCT03374553"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Congestive Heart Failure (CHF)",
+        "phase": "PHASE3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-03-17",
+        "sponsor": "Conrado Roberto Hoffmann Filho",
+        "title": "Evaluation of the Use of Empagliflozin in Patients with Heart Failure with Preserved Ejection Fraction in a Cardiology Outpatient Department",
+        "nct_id": "NCT06683053"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Peripheral T-cell Lymphoma",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2018-06",
+        "sponsor": "Southwest Hospital, China",
+        "title": "Multi-center Randomized Study to Compare Efficacy and Safety of Decitabine Plus CHOP (D-CHOP) Versus CHOP in Patients With Previously Untreated Peripheral T-cell Lymphoma",
+        "nct_id": "NCT03553537"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Anemia",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2008-07",
+        "sponsor": "American Regent, Inc.",
+        "title": "A Multi-center, Randomized, Controlled Study to Investigate the Safety and Tolerability of Intravenous Ferric Carboxymaltose (FCM) vs. Standard Medical Care in Treating Iron Deficiency Anemia",
+        "nct_id": "NCT00703937"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Barrett Esophagus",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2007-07",
+        "sponsor": "Medtronic - MITG",
+        "title": "HALO Patient Registry: Ablation of Barrett's Esophagus, A Multi-Center Patient Registry",
+        "nct_id": "NCT00848237"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Lung Cancer, Depression",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2018-07-16",
+        "sponsor": "OHSU Knight Cancer Institute",
+        "title": "Pilot Study of a Progressive Exercise Program Among Lung Cancer Patient-Partner Dyads",
+        "nct_id": "NCT03649737"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Hepatic Osteodystrophy, Liver Cirrhosis",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2023-09-01",
+        "sponsor": "Institute of Liver and Biliary Sciences, India",
+        "title": "Efficacy and Safety of Oral Ibandronate in Patients of Liver Cirrhosis With Hepatic Osteodystrophy: A Randomized, Double Blind, Placebo Controlled Trial",
+        "nct_id": "NCT06022237"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Cardiac Pacemaker, Artificial",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2015-02",
+        "sponsor": "Biotronik Canada Inc",
+        "title": "Clinical Investigation Plan for the AVOPT Data Collection",
+        "nct_id": "NCT03049722"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Venous Insufficiency",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2005-05",
+        "sponsor": "Abbott",
+        "title": "Multicenter, Prospective, Randomized, Double-Blind Study to Assess the Therapeutic Efficacy and Safety of the Use of Venocur Triplex\u00ae in Patients With Chronic Venous Insufficiency",
+        "nct_id": "NCT00835822"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Left Ventricular Remodeling, Acute Myocardial Infarction",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2012-01",
+        "sponsor": "shuai Mao",
+        "title": "Effects of Danlou Tablets to Prevent Left Ventricular Remodeling After Myocardial Infarction: A Double-blind, Randomized, Placebo Controlled, Pilot Study",
+        "nct_id": "NCT02675322"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Anterior Shoulder Dislocation",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2025-02-05",
+        "sponsor": "Alon Rabin",
+        "title": "Apprehension-based Training Compared With Standard Physical Therapy Among Military Personnel Following Anterior Shoulder Dislocation",
+        "nct_id": "NCT06752551"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Gingival Recession",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2018-12-01",
+        "sponsor": "Postgraduate Institute of Dental Sciences Rohtak",
+        "title": "Assessment of Effect of Orthodontic Treatment on the Stability of Pre-Orthodontic Recession Coverage by Connective Tissue Graft. A Randomized Controlled Clinical Trial",
+        "nct_id": "NCT03886051"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Tooth Color",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2019-05-22",
+        "sponsor": "University of Gaziantep",
+        "title": "Effects of the Different Orthodontic Fixed Retainers on Enamel Colour Change",
+        "nct_id": "NCT04105829"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Ulcerative Colitis Acute",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2023-09-30",
+        "sponsor": "Berinstein, Jeffrey",
+        "title": "A Sequential Multiple Assignment Randomized Trial (SMART) Feasibility Pilot Developing and Optimizing Patient-Tailored Adaptive Treatment Strategies (ATS) for Acute Severe Ulcerative Colitis (ASUC)",
+        "nct_id": "NCT05867329"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Gingivitis",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2013-09",
+        "sponsor": "University of Seville",
+        "title": "Prospective Double-Blind Randomized Controlled Clinical Trial in the Gingivitis Prevention With an Oligomeric Proanthocyanidins Nutritional Supplement",
+        "nct_id": "NCT02515929"
+      }
+    ]
+  },
+  "api_drug_Diazoxide oral suspension": {
+    "timestamp": "2025-12-15T21:48:02.853170",
+    "data": [
+      {
+        "drug_name": "Diazoxide oral suspension",
+        "indication": "Type 2 Diabetes Mellitus, Glucose Metabolism Disorders",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2018-08-01",
+        "sponsor": "Meredith Hawkins",
+        "title": "Regulation of Endogenous Glucose Production by Central KATP Channels",
+        "nct_id": "NCT03540758"
+      },
+      {
+        "drug_name": "Diazoxide oral suspension",
+        "indication": "Hyperinsulinemia, Insulin Resistance",
+        "phase": "PHASE1",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-08-01",
+        "sponsor": "Columbia University",
+        "title": "Role of Hyperinsulinemia in Non-Alcoholic Fatty Liver Disease (NAFLD) Pathogenesis: Diazoxide Pilot & Feasibility Study",
+        "nct_id": "NCT05729282"
+      },
+      {
+        "drug_name": "Diazoxide oral suspension",
+        "indication": "Insulin Resistance, Hyperinsulinemia",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2024-10-23",
+        "sponsor": "Columbia University",
+        "title": "Human Models of Primary Hyperinsulinemia: Diazoxide Suppression Test (DzST) Pilot & Feasibility Study",
+        "nct_id": "NCT06606327"
+      },
+      {
+        "drug_name": "Diazoxide oral suspension",
+        "indication": "Diabetes Mellitus, Type 2, Glucose, High Blood",
+        "phase": "PHASE2",
+        "status": "TERMINATED",
+        "start_date": "2018-06-12",
+        "sponsor": "Meredith Hawkins",
+        "title": "Use of Functional MRI to Assess Functional Hypothalamic Activation in Response to Diazoxide",
+        "nct_id": "NCT03566511"
+      }
+    ]
+  },
+  "api_drug_ALN-HSD": {
+    "timestamp": "2025-12-15T21:48:03.304952",
+    "data": [
+      {
+        "drug_name": "ALN-HSD",
+        "indication": "Metabolic Dysfunction-associated Steatohepatitis (MASH)",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-02-09",
+        "sponsor": "Regeneron Pharmaceuticals",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study of siRNA Gene Silencing for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis (MASH) in Participants With Genetic Risk Factors",
+        "nct_id": "NCT05519475"
+      },
+      {
+        "drug_name": "ALN-HSD",
+        "indication": "Nonalcoholic Steatohepatitis, NASH",
+        "phase": "PHASE1",
+        "status": "TERMINATED",
+        "start_date": "2020-10-09",
+        "sponsor": "Alnylam Pharmaceuticals",
+        "title": "A Phase 1, Randomized, Double-Blind, Placebo-Controlled, 3-Part Study of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single Dose ALN-HSD in Healthy Adult Subjects and Multiple Dose ALN-HSD in Adult Patients With Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT04565717"
+      }
+    ]
+  },
+  "api_drug_Synthroid": {
+    "timestamp": "2025-12-15T21:48:04.433298",
+    "data": [
+      {
+        "drug_name": "Synthroid",
+        "indication": "Depression",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2008-06",
+        "sponsor": "Mayo Clinic",
+        "title": "Acceleration and Relapse Prevention With Triiodothyronine (T3) as an Adjunct to Electroconvulsive Therapy (ECT)",
+        "nct_id": "NCT01299337"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Gut Microbiota",
+        "phase": "Not Specified",
+        "status": "UNKNOWN",
+        "start_date": "2017-04-20",
+        "sponsor": "First Affiliated Hospital of Harbin Medical University",
+        "title": "Gut Microbiota is Associated With Autoimmune Thyroid Disease(GD and HT)",
+        "nct_id": "NCT03390582"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Nonalcoholic Steatohepatitis, Liver Fibrosis",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-04-01",
+        "sponsor": "VA Office of Research and Development",
+        "title": "Low Dose Thyroid Hormone, Mitochondrial Fatty Acid Oxidation, and Treatment of Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT05526144"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2003-04",
+        "sponsor": "Sir Charles Gairdner Hospital",
+        "title": "What is the Optimal Serum TSH Concentration During Thyroxine Treatment for Primary Hypothyroidism? Effects of Fine Titration of Thyroxine Dosage on Wellbeing, Quality of Life and Cognitive Function",
+        "nct_id": "NCT00111735"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Non-thyroidal Illness Syndrome",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2010-06",
+        "sponsor": "Yonsei University",
+        "title": "Peri-operative Oral Triiodothyronine Replacement Therapy to Decrease the Risk of Transient Atrial Fibrillation After Off-pump Coronary Artery Bypass Surgery",
+        "nct_id": "NCT01153360"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2019-06-25",
+        "sponsor": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+        "title": "A Prospective, Single Dose, Randomized, Open-label, Crossover, Comparative Study to Establish Bioequivalence in Healthy Subjects Between the Puran T4\u00ae (Sanofi Aventis Farmac\u00eautica Ltda) vs. the New Formulation of Levothyroxine (Eutirox NF\u00ae Merck) Administered Orally as 3 Tablets of 200 \u03bcg",
+        "nct_id": "NCT04037748"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2022-03-14",
+        "sponsor": "King Abdullah International Medical Research Center",
+        "title": "Timing of Thyroxine Dose In Ramadan; a Randomized Control Trial",
+        "nct_id": "NCT05421468"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Breast Cancer, Fatigue",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2006-04",
+        "sponsor": "University of South Florida",
+        "title": "Thyroid Function & Breast Cancer: A Pilot Study to Estimate the Prevalence of Thyroid Dysfunction in Women Diagnosed With Breast Cancer and the Magnitude of Change in Thyroid Function Post-Chemotherapy",
+        "nct_id": "NCT00336102"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2008-08",
+        "sponsor": "Oregon Health and Science University",
+        "title": "Neurocognitive and Metabolic Effects of Mild Hypothyroidism",
+        "nct_id": "NCT00565864"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Graves Disease (Basedow's Disease)",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2011-05",
+        "sponsor": "Assistance Publique Hopitaux De Marseille",
+        "title": "Assessing the Impact of the Early and Systematic Hormonal Replacement After Radio-isotopic Ablation of Graves'hyperthyro\u00efdism on Quality of Life, Efficiency and Tolerance",
+        "nct_id": "NCT01295333"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "ARDS, Human, Lung, Wet",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2020-03-30",
+        "sponsor": "University of Minnesota",
+        "title": "PHASE II RANDOMIZED, INTERVENTION VERSUS NON- INTERVENTION, MULTI- CENTER STUDY OF THE EFFECTS OF THYROID HORMONE (T3) ON SAFETY/TOLERABILITY AND OXYGENATION IN SUBJECTS WITH ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS)",
+        "nct_id": "NCT04115514"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism, Thyroid Diseases",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2013-07",
+        "sponsor": "Shandong Provincial Hospital",
+        "title": "Effects of Long-term L-thyroxine Replacement on Serum Lipid and Atherosclerosis in Patients With Hypothyroidism",
+        "nct_id": "NCT01848171"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Morbid Obesity",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2007-09",
+        "sponsor": "University of Sao Paulo",
+        "title": "Levothyroxine Absorption in Morbidly Obese Patients Before and After Roux-en-Y Bariatric Surgery",
+        "nct_id": "NCT01189344"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Transient Hypothyroxinemia of Prematurity (THOP)",
+        "phase": "PHASE3",
+        "status": "WITHDRAWN",
+        "start_date": "2020-07-01",
+        "sponsor": "New York Medical College",
+        "title": "Phase III Study of Thyroid Hormones in Prematures",
+        "nct_id": "NCT02103998"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Autoimmune Thyroiditis",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2020-02-01",
+        "sponsor": "University of Bucharest",
+        "title": "The Influence of Identity Oriented Psychotrauma Therapy on Hashimoto Disease Activity: a Randomized Controlled Trial",
+        "nct_id": "NCT04600349"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Healthy Male",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2013-07",
+        "sponsor": "Hyundai Pharmaceutical Co., LTD.",
+        "title": "Compare Safety and Pharmacokinetic Properties of Surfolase Capsule(Acebrophylline 100mg) and Surfolase CR(200mg)",
+        "nct_id": "NCT02395913"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid Diseases, Pregnancy Related",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2020-01-14",
+        "sponsor": "Value Outcomes Ltd.",
+        "title": "Thyroid Disease in Pregnancy and Its Impact on the Quality of Life",
+        "nct_id": "NCT04167423"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Pulmonary Hypertension, Pulmonary Arterial Hypertension",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2013-02",
+        "sponsor": "Northwell Health",
+        "title": "MIF- Thyroxine Interactions in the Pathogenesis of Pulmonary Arterial Hypertension",
+        "nct_id": "NCT02858791"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Recurrent Glioblastoma, Recurrent Gliosarcoma",
+        "phase": "EARLY_PHASE1",
+        "status": "WITHDRAWN",
+        "start_date": "2021-10-20",
+        "sponsor": "Emory University",
+        "title": "A Single Arm Pilot Study to Evaluate the Safety and Feasibility of Inducing a Hypothyroxinemic State in Patients With Recurrent Glioblastoma",
+        "nct_id": "NCT05017610"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2011-01",
+        "sponsor": "Fudan University",
+        "title": "Preconceptional Thyroid Screening and Childhood Nerocognitive Function",
+        "nct_id": "NCT01744743"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Mobility Limitation, Physical Activity",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2018-07-10",
+        "sponsor": "Hospices Civils de Lyon",
+        "title": "Prevention Study on Loss of Autonomy and Physical Dependence, Based on Physical Exercises and Nutrition Counseling Applied to Old People.",
+        "nct_id": "NCT03667664"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Pharmacokinetics",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2003-08",
+        "sponsor": "Heidelberg University",
+        "title": "Bioavailability Investigations of Thyronajod Mite Tablets of Dosage Strengths 50 \u03bcg Levothyrox-ine/75 \u03bcg Iodine, and 100 \u03bcg Levothyroxine/75 \u03bcg Iodine vs. a Levothyroxine Drinking-Solution: A Randomised Cross Over Study in Healthy Male Individuals. Currently: 50 \u03bcg/ 75 \u03bcg Tablets",
+        "nct_id": "NCT01465633"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid Cancer",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2013-04",
+        "sponsor": "University of Tartu",
+        "title": "Method of Endogenous TSH Stimulation in the Follow-up of Differentiated Thyroid Cancer",
+        "nct_id": "NCT01840332"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-07-26",
+        "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+        "title": "Improvement of Laboratory Diagnostics in Hypothyroid Patients Using Levothyroxine",
+        "nct_id": "NCT06083636"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2012-04",
+        "sponsor": "Ipe, LLC",
+        "title": "Phase 1 Single-Dose Study of the Pharmacokinetics of Sustained-Release Liothyronine Sodium (T3) in Healthy Subjects",
+        "nct_id": "NCT01581463"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid Cancer",
+        "phase": "PHASE1",
+        "status": "WITHDRAWN",
+        "start_date": "2021-04-27",
+        "sponsor": "Memorial Sloan Kettering Cancer Center",
+        "title": "Evaluation of The Development of Central Resistance to Thyroid Hormone After Prolonged Exposure to Excess Thyroid Hormone in Thyroid Cancer Patients",
+        "nct_id": "NCT04868045"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Dyslipidemia",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2011-10",
+        "sponsor": "King Saud University",
+        "title": "Effect of Thyroxin Treatment in Sub Clinical Hypothyroidism Patients, on the Apnea Hypopnea Index Score, Lipid Profiles and Highly Sensitive CRP : A Randomized Double Blind Controlled Trial",
+        "nct_id": "NCT01486667"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2019-04-23",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "Absolute Bioavailability of BI 1265162 Following Oral and Inhaled Administration in Healthy Male Volunteers (an Open-label, Randomised, Single-dose, Three-period, Three-sequence Crossover Study Followed by a Fixed Treatment)",
+        "nct_id": "NCT03907280"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Subclinical hypothyro\u00efdism",
+        "phase": "PHASE1, PHASE2",
+        "status": "UNKNOWN",
+        "start_date": "2020-01",
+        "sponsor": "Ain Shams University",
+        "title": "Can Levothyroxine Treatment Reduce the Development of Cardio-metabolic Disorder in Subclinical Hypothyroidism?",
+        "nct_id": "NCT04178928"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Subclinical hypothyro\u00efdism, Cognitive Impairment",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2022-12-18",
+        "sponsor": "Cairo University",
+        "title": "Baduanjin Exercising Effects on Women With Hypothyroidism and Cognitive Problems",
+        "nct_id": "NCT05803967"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Pregnancy Complicated by Hyperthyroidism, Hypothyroidism in Pregnancy",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2001-01",
+        "sponsor": "University of Belgrade",
+        "title": "Fetal Thyroid Hormones Concentration In Hyperthyroid or Hypothyroid Pregnant Women",
+        "nct_id": "NCT01528904"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Malnutrition",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2010-06",
+        "sponsor": "Marion Mertl-Roetzer",
+        "title": "Prospective, Non-interventional Observational Study at the Influence of Malnutrition on Nosocomial Infections in Patients During Early Neurological Rehabilitation",
+        "nct_id": "NCT01243528"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Urinary Tract Infection",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2017-04-15",
+        "sponsor": "Dr. Reddy's Laboratories Limited",
+        "title": "An Open Label Non Placebo Study to Evaluate Efficacy and Safety of Levofloxacin as an Empirical Therapy in Patients With Complicated Urinary Tract Infections",
+        "nct_id": "NCT03160807"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid; Functional Disturbance",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-06-01",
+        "sponsor": "Meir Medical Center",
+        "title": "Eltroxin Administration to Patients With Extremely Low T4 Values in the Intensive Care Unit: Comparison Between Groups and Therapeutic Outcomes",
+        "nct_id": "NCT06154382"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Recurrent Pregnancy Loss, Euthyroid With Thyroid Antibodies",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-11-15",
+        "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+        "title": "The Efficacy of Hydroxychloroquine Combined With Levothyroxine in Euthyroid Women With Thyroid Antibody Positive and Unexplained Recurrent Pregnancy Loss\uff1aA Multicenter, Randomized Controlled Study",
+        "nct_id": "NCT06652113"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Major Depressive Disorder",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2007-09",
+        "sponsor": "Hadassah Medical Organization",
+        "title": "Augmentation of the Antidepressant Action of Sertraline With Triiodothyronine (T3)and Reboxetine: Clinical Efficacy, Adverse Effects and Predictors of Response.",
+        "nct_id": "NCT00421369"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thermoregulation Impairment",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2019-06-01",
+        "sponsor": "University Hospital, Basel, Switzerland",
+        "title": "Glucocorticoid Long-term Administration: Effect on Cold Induced Energy Expenditure and Resting Metabolic Rate",
+        "nct_id": "NCT03949361"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid Goiter, Hypothyroidism",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2020-10-28",
+        "sponsor": "Virginia Commonwealth University",
+        "title": "Energy Metabolism in Thyroidectomized Patients",
+        "nct_id": "NCT04782856"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Congenital Heart Defects",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2014-11",
+        "sponsor": "Seattle Children's Hospital",
+        "title": "Phase 3 Triiodothyronine Supplementation for Infants After Cardiopulmonary Bypass",
+        "nct_id": "NCT02320669"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Goiter, Nodular, Total Thyroidectomy",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2018-01-01",
+        "sponsor": "University of Foggia",
+        "title": "Thyroid Cancer in Surgically Treated Multinodular Goiter: Incidence and Histopatological Outcomes",
+        "nct_id": "NCT06924242"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Atrial Fibrillation",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2006-02",
+        "sponsor": "Northwell Health",
+        "title": "Randomized Prospective Study of T3 on the Incidence of Post-Operative Atrial Fibrillation in Patients Undergoing Cardiac Surgery",
+        "nct_id": "NCT00289367"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypothyroidism",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2021-03-23",
+        "sponsor": "Sohag University",
+        "title": "Long-Term Efficacy and Safety of Once-Weekly Levothyroxine Regimen in Hypothyroid Patients: A Three-Year Follow-Up Study",
+        "nct_id": "NCT07133295"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Diabetes, Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2016-10-10",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "A Trial Investigating the Influence of Oral Semaglutide on the Pharmacokinetics of Levothyroxine and the Influence of Co-administered Tablets on the Pharmacokinetics of Semaglutide Administered Orally in Healthy Subjects",
+        "nct_id": "NCT02920385"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Hypopituitarism",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2012-04",
+        "sponsor": "Rigshospitalet, Denmark",
+        "title": "Central Hypothyroidism and Cardiovascular Risk Factors",
+        "nct_id": "NCT01574859"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Pregnancy, Infertility",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2012-04",
+        "sponsor": "University of Roma La Sapienza",
+        "title": "Selenium Supplementation Treatment in Euthyroid Pregnant Women With Autoimmune Thyroid Disease: Effects on Obstetrical Complications",
+        "nct_id": "NCT01465867"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Thyroid; Deficiency, Quality of Life",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2019-04-01",
+        "sponsor": "Klinikum L\u00fcdenscheid",
+        "title": "Influence of Radioiodine Treatment on Thyroid Function and Quality of Life of Patients",
+        "nct_id": "NCT03880578"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Graves Disease, Relapse",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2018-05-01",
+        "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+        "title": "Clinical Study on the Effect of Routine Treatment and Intensive Treatment on the Regulation of Graves' Disease and the Cumulative Recurrence Two Years After Drug Withdrawal",
+        "nct_id": "NCT05461820"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Goiter",
+        "phase": "PHASE4",
+        "status": "WITHDRAWN",
+        "start_date": "2015-05",
+        "sponsor": "Sheng-Chiang Su",
+        "title": "Therapeutic Role of Levothyroxine on the Patients With Atypia of Undetermined Significance (AUS) Goiter",
+        "nct_id": "NCT02329379"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Keratoconus, Corneal Ectasia",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2018-02-01",
+        "sponsor": "Ameera Gamal Abdelhameed",
+        "title": "Corneal Tomographic Analysis Among Patients With Thyroid Gland Dysfunction.",
+        "nct_id": "NCT04433936"
+      },
+      {
+        "drug_name": "Synthroid",
+        "indication": "Chronic Prostatitis",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2013-07",
+        "sponsor": "Dr. Reddy's Laboratories Limited",
+        "title": "Non-interventional (Observational) Study of the Administration of Levolet\u00ae R, Film-coated Tablets (Dr. Reddy's Laboratories Ltd., India) in Adults With Chronic Prostatitis in Routine Clinical Practice",
+        "nct_id": "NCT02711943"
+      }
+    ]
+  },
+  "api_drug_Empagliflozin 10 MG": {
+    "timestamp": "2025-12-15T21:48:06.762211",
+    "data": [
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Congestive Heart Failure (CHF)",
+        "phase": "PHASE3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-03-17",
+        "sponsor": "Conrado Roberto Hoffmann Filho",
+        "title": "Evaluation of the Use of Empagliflozin in Patients with Heart Failure with Preserved Ejection Fraction in a Cardiology Outpatient Department",
+        "nct_id": "NCT06683053"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2016-04",
+        "sponsor": "Institut f\u00fcr Pharmakologie und Pr\u00e4ventive Medizin",
+        "title": "ELMI - Prospective, Randomized, Controlled, Parallel-arm Study to Assess the Effects of the Combined Therapy of Empagliflozin and Linagliptin Compared to Metformin and Insulin Glargine on Renal and Vascular Changes in Type 2 Diabetes",
+        "nct_id": "NCT02752113"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure With Reduced Ejection Fraction",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2022-12-15",
+        "sponsor": "Alexandria University",
+        "title": "Effect of Empagliflozin on NT-Pro Brain Natriuretic Peptide in Heart Failure Patients With Reduced Ejection Fraction",
+        "nct_id": "NCT05778084"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2013-09",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Randomised, Double-blind, Placebo-controlled, Parallel Group, 4-week Study to Evaluate the Efficacy of Empagliflozin (10 mg and 25 mg Administered Orally Once Daily) in Postprandial Glucose and 24-hour Glucose Variability in Japanese Patients With Type 2 Diabetes Mellitus With Insufficient Glycaemic Control",
+        "nct_id": "NCT01947855"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Non-Alcoholic Fatty Liver Disease",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-01-27",
+        "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+        "title": "Mechanisms of SGLT2 Inhibition in Pediatric Steatotic Liver Disease",
+        "nct_id": "NCT06355310"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2011-03",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "Pharmacokinetics and Pharmacodynamics of BI 10773 After Single and Multiple Oral Dose of 10 mg and 25 mg BI 10773 in Chinese Male and Female Type 2 Diabetic Patients",
+        "nct_id": "NCT01316341"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Non Alcoholic Steatohepatitis",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2022-11",
+        "sponsor": "Tanta University",
+        "title": "Comparative Clinical Study to Evaluate the Possible Beneficial Effect of Empagliflozin Versus Pioglitazone on Non-diabetic Patients With Non-Alcoholic Steatohepatitis",
+        "nct_id": "NCT05605158"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Myocardial Infarction",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2020-12-16",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "EMPACT-MI: A Streamlined, Multicentre, Randomised, Parallel Group, Double-blind Placebo-controlled Superiority Trial to Evaluate the Effect of EMPAgliflozin on Hospitalisation for Heart Failure and Mortality in Patients With aCuTe Myocardial Infarction",
+        "nct_id": "NCT04509674"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Partial Islet Function, TPIAT",
+        "phase": "PHASE4",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2026-03-01",
+        "sponsor": "University of Minnesota",
+        "title": "SGLT2i Therapy in Islet Transplantation (SIT)",
+        "nct_id": "NCT07228195"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2018-03-20",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Phase III Randomised, Double-blind Trial to Evaluate the Effect of 12 Weeks Treatment of Once Daily EMPagliflozin 10 mg Compared With Placebo on ExeRcise Ability and Heart Failure Symptoms, In Patients With Chronic HeArt FaiLure With Reduced Ejection Fraction (HFrEF) (EMPERIAL-reduced)",
+        "nct_id": "NCT03448419"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure, Hemodialysis",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2023-06-01",
+        "sponsor": "Shahid Beheshti University of Medical Sciences",
+        "title": "Safety and Efficacy of Empagliflozin on Heart Failure Dialysis Patients",
+        "nct_id": "NCT05967156"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2021-06-30",
+        "sponsor": "Center for Outcomes Research and Clinical Epidemiology, Italy",
+        "title": "Intraclass Safety and Efficacy Comparison Among SGLT-2 Inhibitors in Elderly Patients With Type 2 Diabetes. A Pragmatic, Phase IV, Multicenter, Open-label, Randomised Controlled Trial.",
+        "nct_id": "NCT04796428"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Coronary Artery Disease, Diabetes Mellitus",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2016-11",
+        "sponsor": "Research Institute for Complex Problems of Cardiovascular Diseases, Russia",
+        "title": "A Long-term, Randomized Study to Evaluate the Effects of Empagliflozin in Combination With Standard Hypoglycemic Therapy on Early and Long-term Results of Planned Percutaneous Coronary Interventions in Patients With Type 2 Diabetes.",
+        "nct_id": "NCT04497792"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "NASH - Nonalcoholic Steatohepatitis, Diabetes Mellitus, Type 2",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2022-06-29",
+        "sponsor": "Inventiva Pharma",
+        "title": "A Placebo-controlled, Proof-of-concept Study to Evaluate the Safety and Efficacy of Lanifibranor Alone and in Combination With the Sodium-glucose Transport Protein 2 (SGLT2) Inhibitor EmpaGliflozin in patiEnts With Non-alcoholic Steatohepatitis (NASH) and Type 2 Diabetes Mellitus (T2DM)",
+        "nct_id": "NCT05232071"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus Type 2 Without Complication",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2020-03-30",
+        "sponsor": "Centro Universitario de Ciencias de la Salud, Mexico",
+        "title": "Acute Effect of Empagliflozin vs Dapagliflozin vs Placebo Administration Over Pulse Wave Velocity in Patients With Type Two Diabetes",
+        "nct_id": "NCT05109949"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Pulmonary Arterial Hypertension",
+        "phase": "PHASE2",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2025-06-26",
+        "sponsor": "Gustavo A Heresi, MD, MS",
+        "title": "Empagliflozin to Improve Right Ventricular Function in Pulmonary Arterial Hypertension",
+        "nct_id": "NCT06992440"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2008-01",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "The Effect of Food on the Bioavailability and Pharmacokinetics of BI 10773 Tablet, Administered as a Single Dose of 50 mg With and Without Food to Healthy Male Volunteers in an Open-label, Randomised Intraindividual Crossover Comparison Design",
+        "nct_id": "NCT02172209"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Transplant; Failure, Heart, Cardiac Allograft Vasculopathy",
+        "phase": "PHASE2",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2023-11-20",
+        "sponsor": "Universidade Federal do Ceara",
+        "title": "Impact of SGLT2 Inhibitors on Cardioprotection in Patients Undergoing Heart Transplantation",
+        "nct_id": "NCT06147271"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2019-10-30",
+        "sponsor": "Sciema UG",
+        "title": "Pilot Study for Evaluation of the Impact of Intensive Short-Term Drug Therapy on Beta-Cell Function and Insulin Resistance in Patients With Type 2 Diabetes Mellitus",
+        "nct_id": "NCT04027023"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Congenital Heart Disease",
+        "phase": "PHASE3",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2025-05",
+        "sponsor": "Subodh Verma",
+        "title": "A Randomized Trial of SGLT2 Inhibition With Empagliflozin in Adults With Fontan Circulatory Failure (EMPA-HEART 3 CardioLink-12)",
+        "nct_id": "NCT06955260"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Postprandial Hypoglycemia",
+        "phase": "PHASE3",
+        "status": "TERMINATED",
+        "start_date": "2022-03-11",
+        "sponsor": "University Hospital, Basel, Switzerland",
+        "title": "Empagliflozin for the Treatment of Postprandial Hypoglycemia",
+        "nct_id": "NCT05036317"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Non Alcoholic Fatty Liver Disease",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2016-03",
+        "sponsor": "Medanta, The Medicity, India",
+        "title": "Effect of Empagliflozin on Liver Fat Content in Patients With Type 2 Diabetes: A 12-week Randomized Clinical Study",
+        "nct_id": "NCT02686476"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2008-08",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Phase II, Randomized, Parallel Group Safety, Efficacy, and Pharmacokinetics Study of BI 10773 (1 mg, 5 mg, 10 mg, 25 mg, and 50 mg) Administered Orally Once Daily Over 12 Weeks Compared Double Blind to Placebo With an Additional Open-label Sitagliptin Arm in Type 2 Diabetic Patients With Insufficient Glycemic Control Despite Metformin Therapy",
+        "nct_id": "NCT00749190"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Hypertrophic Cardiomyopathy, Heart Failure",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2022-06-01",
+        "sponsor": "National Institute of Cardiology, Warsaw, Poland",
+        "title": "The Use of Empagliflozin in Patients With Hypertrophic Cardiomyopathy",
+        "nct_id": "NCT05182658"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Glucose Metabolism Disorders, Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2023-12-01",
+        "sponsor": "SINA Health Education and Welfare Trust",
+        "title": "Effectivity of Empagliflozin Addition to Insulin and Oral Antidiabetic Medication (OAD) Regimen in Poorly Controlled Type 2 Diabetes",
+        "nct_id": "NCT06145360"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Type 2 Diabetes, Cardiovascular Risk Factor",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2016-04",
+        "sponsor": "University of Catanzaro",
+        "title": "Comparative Effects of Empagliflozin Versus Glimepiride After 26-weeks of Treatment Add on Metformin on Myocardial Metabolic Rate of Glucose Estimated Through 18FDG-PET in Patients With Type 2 Diabetes",
+        "nct_id": "NCT04183868"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2013-02-08",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Phase III, Randomised, Double-blind, Parallel Group, 24 Week Study to Evaluate Efficacy and Safety of Once Daily Empagliflozin 10 mg and 25 mg Compared to Placebo, All Administered as Oral Fixed Dose Combinations With Linagliptin 5 mg, in Patients With Type 2 Diabetes Mellitus and Insufficient Glycaemic Control After 16 Weeks Treatment With Linagliptin 5 mg Once Daily on Metformin Background Therapy.",
+        "nct_id": "NCT01734785"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Chronic Kidney Diseases, Pediatric Kidney Disease",
+        "phase": "EARLY_PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2024-08-23",
+        "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+        "title": "Feasibility Trial of Sodium-GLucose CoTransporter 2 INhibitors in Pediatric Chronic KIDney DiSease",
+        "nct_id": "NCT06430684"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2015-10-29",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A 52-week Randomised, Double-blind, Parallel Group, Safety and Efficacy Study of Empagliflozin Once Daily as add-on Therapy to Glucagon-like Peptide-1 Receptor Agonist in Japanese Type 2 Diabetes Mellitus Patients With Insufficient Glycaemic Control",
+        "nct_id": "NCT02589626"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "End Stage Renal Disease",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2024-01-31",
+        "sponsor": "NYU Langone Health",
+        "title": "A Phase II, Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Assess the Safety, Tolerability, and Preliminary Efficacy of Empagliflozin Among Patients Initiating Hemodialysis for the Treatment of End-Stage Kidney Disease",
+        "nct_id": "NCT05786443"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2017-08-01",
+        "sponsor": "Federal State Budgetary Institution, V. A. Almazov Federal North-West Medical Research Centre, of the Ministry of Health",
+        "title": "Search for Highly Specific Predictors of Response to Different Hypoglycemic Therapy for Cardiovascular Prognosis",
+        "nct_id": "NCT03804411"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure, Heart Failure With Preserved Ejection Fraction",
+        "phase": "PHASE4",
+        "status": "UNKNOWN",
+        "start_date": "2022-12-15",
+        "sponsor": "Zhijun Sun",
+        "title": "EMPAGUM: Effects of Empagliflozin on Gut Microbiota in Heart Failure With a Preserved Ejection Fraction",
+        "nct_id": "NCT05584319"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Healthy",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2021-07-23",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "Relative Bioavailability of Empagliflozin/Metformin Fixed-dose Combination - Empagliflozin 12.5 mg + Metformin 850mg (Boehringer Ingelheim) Coated Tablet Versus Jardiance\u00ae 10mg (Reference 1: Boehringer Ingelheim) Coated Tablet and Glifage\u00ae 850mg (Reference 2: Merck S / A. ) Coated Tablet, Administered Together in Healthy Male and Female Subjects Under Fed Conditions: an Open-label, Randomised, Single-dose, Two-way Crossover Study",
+        "nct_id": "NCT05083949"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure, Diabetes Mellitus",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2018-03-16",
+        "sponsor": "NHS Greater Glasgow and Clyde",
+        "title": "Studies of Empagliflozin and Its Cardiovascular, Renal and Metabolic Effects in Patients With Diabetes Mellitus (or Pre-diabetes) and Heart Failure (SUGAR-DM-HF)",
+        "nct_id": "NCT03485092"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2015-06-12",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "Post Marketing Surveillance in Japan on Long Term Drug Use of JARDIANCE\u00ae Tablets in Patients With Type 2 Diabetes Mellitus",
+        "nct_id": "NCT02489942"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Type 2 Diabetes Mellitus, Dyslipidemia",
+        "phase": "PHASE3",
+        "status": "UNKNOWN",
+        "start_date": "2023-03",
+        "sponsor": "EMS",
+        "title": "National, Multicenter, Randomized, Double-blind, Triple-dummy, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Berlim 25/10 Association in the Treatment of Type II Diabetes Mellitus and Dyslipidemia.",
+        "nct_id": "NCT04603508"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2020-10-05",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Randomised, Double-blind, Placebo-controlled, Parallel Group, 52 Weeks Phase IV Trial to Evaluate Efficacy and Safety of Oral, Once Daily Empagliflozin in Elderly Japanese Patients With Type 2 Diabetes Mellitus and Insufficient Glycaemic Control",
+        "nct_id": "NCT04531462"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Acute Heart Failure",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2022-09-27",
+        "sponsor": "Chinese University of Hong Kong",
+        "title": "In-hospital Initiation of Empagliflozin for the Treatment of New-onset Acute Heart Failure Regardless of Ejection Fraction: A Pilot Study",
+        "nct_id": "NCT05556044"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2, Sarcopenia",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2018-05-09",
+        "sponsor": "Tel-Aviv Sourasky Medical Center",
+        "title": "The Effect of a Circuit Resistance Training, Empagliflozin or \"Vegeterranean Diet\" on Physical and Metabolic Function in Elderly Subjects With Type 2 Diabetes: a Study Protocol for a Randomized Control Trial (CEV-65 Trial)",
+        "nct_id": "NCT03560375"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Patients",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2019-04-18",
+        "sponsor": "Hua Medicine Limited",
+        "title": "A Phase 1, Open-Label, Sequential, Multiple-Dose, Drug-Drug Interaction Study of Dorzagliatin and Empagliflozin in Subjects with Type 2 Diabetes Mellitus",
+        "nct_id": "NCT03790787"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2020-04-15",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Phase III, Randomised, Double-blind, Placebo-controlled, Parallel Group Study of Empagliflozin (10 mg and 25 mg) Administered Orally Once Daily in Combination With Insulin With or Without up to Two Oral Anti-diabetic Agents for 24 Weeks in Chinese Type 2 Diabetic Patients With Insufficient Glycemic Control.",
+        "nct_id": "NCT04233801"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Posttransplant Diabetes Mellitus",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2017-01-15",
+        "sponsor": "Medical University of Vienna",
+        "title": "Empagliflozin in Post-Transplantation Diabetes Mellitus",
+        "nct_id": "NCT03113110"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Non-alcoholic Fatty Liver Disease",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2021-01-01",
+        "sponsor": "The University of Hong Kong",
+        "title": "Effect of Empagliflozin on Liver Fat in Non-alcoholic Fatty Liver Disease Patients Without Diabetes Mellitus: a Randomized, Double-blind, Placebo-controlled Trial",
+        "nct_id": "NCT04642261"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Renal Insufficiency, Chronic",
+        "phase": "PHASE2, PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2022-01-01",
+        "sponsor": "Tanta University",
+        "title": "Clinical Study Evaluating the Efficacy and Safety of Metformin Versus Empagliflozin for Halting Chronic Kidney Disease Progression",
+        "nct_id": "NCT05373680"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Autosomal Dominant Polycystic Kidney",
+        "phase": "PHASE4",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-06-14",
+        "sponsor": "Hannover Medical School",
+        "title": "Study of Empagliflozin in Patients With Autosomal Dominant Polycystic Kidney Disease (EMPA-PKD)",
+        "nct_id": "NCT06391450"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Heart Failure Acute, Heart Failure\uff0cCongestive",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2017-12-18",
+        "sponsor": "University Medical Center Groningen",
+        "title": "Randomized, Double Blind, Placebo Controlled, Multicenter Pilot Study on the Effects of Empagliflozin on Clinical Outcomes in Patients With Acute Decompensated Heart Failure (EMPA-RESPONSE-AHF)",
+        "nct_id": "NCT03200860"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Type 2",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2011-01",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "Investigation of Pharmacodynamic and Pharmacokinetic Interactions Between 25 mg BI 10773 and 25 mg Hydrochlorothiazide or 5 mg Torasemide Under Steady State Conditions in Patients With Type 2 Diabetes Mellitus in an Open-label, Randomised, Cross-over Trial",
+        "nct_id": "NCT01276288"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetes Mellitus, Heart Failure",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2024-07-12",
+        "sponsor": "Fatima Maqsood",
+        "title": "Comparison of Empagliflozin and Dapagliflozin in Patients With Heart Failure Taking Standard Treatment",
+        "nct_id": "NCT06915870"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Diabetic Kidney Disease",
+        "phase": "PHASE4",
+        "status": "NOT_YET_RECRUITING",
+        "start_date": "2025-09",
+        "sponsor": "Washington D.C. Veterans Affairs Medical Center",
+        "title": "Role of Finerenone in African American Veterans With Diabetic Kidney Disease",
+        "nct_id": "NCT07155694"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG",
+        "indication": "Fatty Liver Disease",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2023-04-01",
+        "sponsor": "Assiut University",
+        "title": "Effect of Sodium Glucose Cotransporter Inhibitors on Fatty Liver Disease Patients",
+        "nct_id": "NCT05694923"
+      }
+    ]
+  },
+  "api_drug_BGM0504": {
+    "timestamp": "2025-12-15T21:58:14.865038",
+    "data": [
+      {
+        "drug_name": "BGM0504",
+        "indication": "Type 2 Diabetes Mellitus (T2DM), Overweight or Obese",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-05-08",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Multi-center, Single-dose, Open-label, Parallel Design, Pharmacokinetics Study of BGM0504 Injection in Healthy Participants and Participants With Impaired Renal Function",
+        "nct_id": "NCT06929156"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Type 2 Diabetes (T2DM)",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2025-07-04",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase 3, Randomized, Open Label Trial Comparing Efficacy and Safety of BGM0504 Versus Semaglutide Once Weekly as Add-on Therapy to Metformin in Patients With Type 2 Diabetes",
+        "nct_id": "NCT07064486"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Overweight or Obesity",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2024-10-28",
+        "sponsor": "BrightGene New Bio-Medical Technology(Wuxi) Co.Ltd.",
+        "title": "A Multicenter, Randomized, Double-blind, Placebo-parallel Controlled Phase III Clinical Study to Evaluate the Efficacy and Safety of BGM0504 Injection in Chinese Non-diabetes Participants with Overweight or Obese",
+        "nct_id": "NCT06704581"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Non-diabetic Overweight or Obese",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2024-10-21",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase 1, Double-Blind, Parallel-arm, Placebo-Controlled, Multiple-dose Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of BGM0504 Injection Administered Subcutaneously in Non-diabetic Overweight or Obese Adult Subjects",
+        "nct_id": "NCT06714955"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Overweight or Obese",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2025-03-24",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Single Center, Open-label, Fixed Sequence Trial, Investigating the Influence of BGM0504 Injection on Gastric Emptying and Pharmacokinetics of Metformin and Warfarin in Overweight or Obese Participants",
+        "nct_id": "NCT06920056"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Overweight or Obesity",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2023-10-13",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Phase II Clinical Study to Evaluate the Safety, Tolerability, PK/PD Profile, and Efficacy of Multiple Doses of BGM0504 Injection in Overweight or Obese Subjects Without Diabetes",
+        "nct_id": "NCT06973681"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Non-diabetic Overweight or Obese",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-08-11",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase 1, Double-Blind, Randomized, Ascending-Dose, Placebo-Controlled, Multiple-dose Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of BGM0504 Tablets Orally Administered in Non-diabetic Overweight or Obese Adult Subjects",
+        "nct_id": "NCT07166081"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Obesity",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-04-03",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase II, Randomized Open-label, Multicenter Study to Evaluate the Efficacy and Safety of BGM0504 Compared to Tirzepatide in Adults Who Have Obesity",
+        "nct_id": "NCT06911203"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Type 2 Diabetes",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2023-08-30",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Randomized, Double-blind, Placebo and Positive Drug Parallel-controlled Phase IIa Clinical Study Protocol to Evaluate the Safety, Tolerability, Pharmacokinetic and Pharmacodynamic Characteristics of Multiple-dose BGM0504 Injection in Patients With Type 2 Diabetes Mellitus",
+        "nct_id": "NCT06974825"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Type 2 Diabetes Mellitus (T2DM)",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2024-11-29",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase 3, Randomized, Open-Label Trial Comparing Efficacy and Safety of BGM0504 Versus Semaglutide Once Weekly As Add-on Therapy to Metformin And/or Sulfonylureas in Patients with Type 2 Diabetes",
+        "nct_id": "NCT06716216"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Healthy, Non-diabetic Overweight or Obese",
+        "phase": "PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-10-21",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single/Multiple-dose Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of BGM0504 Tablets Orally Administered in Healthy and Non-diabetic Overweight or Obese Chinese Subjects.",
+        "nct_id": "NCT07239973"
+      },
+      {
+        "drug_name": "BGM0504",
+        "indication": "Type 2 Diabetes Mellitus (T2DM)",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2024-12-02",
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "title": "A Randomized, Double-blind, Placebo-Controlled Trial Comparing the Efficacy and Safety of BGM0504 Versus Placebo in Patients with Type 2 Diabetes, Inadequately Controlled with Diet and Exercise Alone",
+        "nct_id": "NCT06716203"
+      }
+    ]
+  },
+  "api_drug_Sinemet CR": {
+    "timestamp": "2025-12-15T21:58:46.738422",
+    "data": [
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Diabetic Retinopathy",
+        "phase": "EARLY_PHASE1",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2022-07-01",
+        "sponsor": "VA Office of Research and Development",
+        "title": "Treating Early Stage Diabetic Retinopathy",
+        "nct_id": "NCT05132660"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Angelman Syndrome",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2013-11-26",
+        "sponsor": "Bennett Lavenstein",
+        "title": "Clinical Trial of Levodopa/Carbidopa ( Sinemet) Therapy in Angel Man Syndrome",
+        "nct_id": "NCT03235037"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Stroke",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2022-08-01",
+        "sponsor": "University of California, Los Angeles",
+        "title": "Dopaminergic Enhancement of Rehabilitation Therapy Early After Stroke",
+        "nct_id": "NCT05369533"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "1998-01",
+        "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+        "title": "Earlier Versus Later L-Dopa in Parkinson's Disease",
+        "nct_id": "NCT00004733"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2006-10",
+        "sponsor": "Baylor College of Medicine",
+        "title": "Comparison of Orally Dissolving Carbidopa/Levodopa (Parcopa) to Conventional Oral Carbidopa/Levodopa: A Single-Dose, Double-Blind, Double-Dummy, Placebo-Controlled, Crossover Trial",
+        "nct_id": "NCT00590122"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Albinism, Oculocutaneous Albinism",
+        "phase": "PHASE2",
+        "status": "TERMINATED",
+        "start_date": "2012-10-17",
+        "sponsor": "University of Wisconsin, Madison",
+        "title": "Interventional Study of Levodopa Replacement on Retinal Function in Oculocutaneous Albinism",
+        "nct_id": "NCT01663935"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2005-06",
+        "sponsor": "UCB Pharma",
+        "title": "A Single Center, Randomized, Double-blind, Crossover Pilot Trial Comparing the Onset of Action of Parcopa\u2122 With Sinemet\u00ae in Subjects With Stable Parkinson's Disease",
+        "nct_id": "NCT00139880"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Neuro-Degenerative Disease",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2017-02-20",
+        "sponsor": "University of Pisa",
+        "title": "P2X7 Receptor, Inflammation and Pathophysiology of Neurodegenerative Diseases",
+        "nct_id": "NCT03918616"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Depression",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2015-10-09",
+        "sponsor": "Emory University",
+        "title": "\"Inflammation-related Alterations in Neurocircuitry: Reversal With Levodopa\"; \"Inflammation Effects on Corticostriatal Connectivity and Reward: Role of Dopamine\"",
+        "nct_id": "NCT02513485"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Opioid Use, Opioid Dependence",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-01-01",
+        "sponsor": "Northwestern University",
+        "title": "Project 1 Aim 2, Adaptations of the Brain in Chronic Pain With Opioid Exposure",
+        "nct_id": "NCT05463367"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2005-09",
+        "sponsor": "Bial - Portela C S.A.",
+        "title": "Pharmacokinetic-pharmacodynamic Interaction Between Three Different Single Doses of BIA 3-202 and a Single Dose of Controlled-release 200/50 mg Levodopa/Carbidopa (Sinemet\u00ae cr 200/50): a Double-blind, Randomised, Four-way Crossover, Placebo-controlled Study in Healthy Volunteers",
+        "nct_id": "NCT02774564"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease (PD)",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2010-02",
+        "sponsor": "Bial - Portela C S.A.",
+        "title": "Effect of Three Multiple-dose Regimens of BIA 9 1067 at Steady-state on the Levodopa Pharmacokinetics of a Single-dose of Immediate Release 100/25 mg Levodopa/Carbidopa and 100/25 mg Levodopa/Benserazide in Healthy Subjects",
+        "nct_id": "NCT02169414"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Amyotrophic Lateral Sclerosis, Motor Neuron Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2019-05-13",
+        "sponsor": "Washington University School of Medicine",
+        "title": "Sinemet in ALS and PLS",
+        "nct_id": "NCT03929068"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Healthy Volunteers",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2017-02-21",
+        "sponsor": "Orion Corporation, Orion Pharma",
+        "title": "A Dose-finding Study for Levodopa, Carbidopa and ODM-104 Test Formulations After Repeated Administration in Healthy Males",
+        "nct_id": "NCT03055936"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Anhedonia, Depression",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2023-11-21",
+        "sponsor": "Emory University",
+        "title": "Dopaminergic Therapy for Inflammation-Related Anhedonia in Depression - 2",
+        "nct_id": "NCT06075771"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2009-03",
+        "sponsor": "Bial - Portela C S.A.",
+        "title": "Pharmacokinetic Interaction Between BIA 9-1067 and Standard-release Levodopa/Carbidopa in Healthy Subjects",
+        "nct_id": "NCT01533077"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Spinal Cord Injuries",
+        "phase": "PHASE2, PHASE3",
+        "status": "SUSPENDED",
+        "start_date": "2019-06-19",
+        "sponsor": "Jessica M D'Amico",
+        "title": "The Effects of 5-hydroxytryptophan (5-HTP) and L-3,4-dihydroxyphenylalanine (L-DOPA) Supplementation on Central Nervous System Excitability and Motor Function in Individuals With Spinal Cord Injury",
+        "nct_id": "NCT04000919"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease, Obstructive Sleep Apnea",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2017-05-24",
+        "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+        "title": "Effect of Long-acting Levodopa on Obstructive Sleep Apnea in Parkinson's Disease",
+        "nct_id": "NCT03111485"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinsonian Signs in Older Persons",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2024-03-15",
+        "sponsor": "University of Michigan",
+        "title": "Neurobiological Drivers of Mobility Resilience: The Dopaminergic System",
+        "nct_id": "NCT06219915"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Idiopathic Parkinson's Disease",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2012-05",
+        "sponsor": "Acorda Therapeutics",
+        "title": "A Randomized, Placebo-Controlled, Phase 2 Study of the Safety, Pharmacokinetics and Pharmacodynamics of CVT-310 (Levodopa Inhalation Powder) in Patients With Parkinson's Disease and Motor Response Fluctuations (\"Off Episodes\")",
+        "nct_id": "NCT01617135"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2018-09-24",
+        "sponsor": "Milton S. Hershey Medical Center",
+        "title": "A Phase Ib Safety, Tolerability, and Efficacy Study of Two Days of Oral Split Dose (25/20 mg) Administration of PF 06412562 in Subjects With Advanced Stage Parkinson's Disease",
+        "nct_id": "NCT03665454"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Autonomic Failure, Orthostatic Hypotension",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2002-03",
+        "sponsor": "Vanderbilt University",
+        "title": "Evaluation and Treatment of Autonomic Failure.",
+        "nct_id": "NCT00223691"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2014-07-30",
+        "sponsor": "IRCCS San Raffaele Roma",
+        "title": "A Phase IIa Study to Assess the Safety, Tolerability, Plasma Pharmacokinetics and Efficacy of Intermittent Oral Administration of Standard Levodopa/Carbidopa vs. Semi-continuous Intra-oral Administration of Levodopa/Carbidopa in Patients With Advanced Parkinson's Disease Who Suffer Motor Fluctuations",
+        "nct_id": "NCT02763137"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2010-07",
+        "sponsor": "XenoPort, Inc.",
+        "title": "A Phase 2 Efficacy, Safety and Pharmacokinetic Study of XP21279 BL2 and Sinemet\u00ae in Parkinson's Disease Subjects With Motor Fluctuations",
+        "nct_id": "NCT01171313"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease, Parkinson Disease",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2003-12",
+        "sponsor": "GlaxoSmithKline",
+        "title": "A Two Year Phase IIIb Randomised, Multicenter, Double-blind, SINEMET Controlled, Parallel Group, Flexible Dose Study, to Assess the Effectiveness of Controlled Release Ropinirole add-on Therapy to L-dopa at Increasing the Time to Onset of Dyskinesia in Parkinson's Disease Subjects.",
+        "nct_id": "NCT00363727"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2004-11-03",
+        "sponsor": "Bial - Portela C S.A.",
+        "title": "A Double-blind, Randomised, Placebo-controlled Study in Healthy Volunteers to Investigate the Tolerability and Pharmacokinetics of Rising Single-doses of BIA 6-512 and Their Effect on the Levodopa Pharmacokinetics When Administered in Combination With a Single-dose of Levodopa/Carbidopa 100/25 mg or With a Single-dose of Levodopa/Carbidopa 100/25 mg Plus a Single-dose of Entacapone 200 mg",
+        "nct_id": "NCT03091868"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease (PD)",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2011-09",
+        "sponsor": "Bial - Portela C S.A.",
+        "title": "The Effect of BIA 9-1067 at Steady-state on the Levodopa Pharmacokinetics When Administered With Immediate-release 100/25 mg Levodopa/Carbidopa in Healthy Subjects",
+        "nct_id": "NCT02170376"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Stroke",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2007-04",
+        "sponsor": "Emory University",
+        "title": "Neurobiological Principles Applied to the Rehabilitation of Stroke Patients",
+        "nct_id": "NCT00715520"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE2",
+        "status": "WITHDRAWN",
+        "start_date": "Unknown",
+        "sponsor": "Rush University Medical Center",
+        "title": "A Randomized, Controlled, Double-Blind, Cross-over Study of Zolpidem for Patients With Parkinson's Disease",
+        "nct_id": "NCT01351168"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Healthy Volunteers",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2019-01-14",
+        "sponsor": "Hong Kong WD Pharmaceutical Co., Limited",
+        "title": "A Phase 1 Single-Dose, Open-label, Sequential, Three-Period Crossover Study to Evaluate the Pharmacokinetics of WD-1603 Tablets in Healthy Subjects",
+        "nct_id": "NCT03761004"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Cocaine Dependence",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2008-01",
+        "sponsor": "The University of Texas Health Science Center, Houston",
+        "title": "Contingency Management Plus Levodopa/Carbidopa for Treatment of Cocaine Dependence",
+        "nct_id": "NCT00713583"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease, Depression",
+        "phase": "NA",
+        "status": "UNKNOWN",
+        "start_date": "2021-01",
+        "sponsor": "Western University, Canada",
+        "title": "The Effects of Mood Symptoms Treatment on Quality of Life and Motor Function in de Novo Parkinson's Disease Patients",
+        "nct_id": "NCT04590612"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease (Disorder)",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "start_date": "2018-11-06",
+        "sponsor": "Impax Laboratories, LLC",
+        "title": "A Randomized Controlled Study to Compare the Safety and Efficacy of IPX203 With Immediate-Release Carbidopa-Levodopa in Parkinson's Disease Patients With Motor Fluctuations",
+        "nct_id": "NCT03670953"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Age-related Macular Degeneration",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2017-05-02",
+        "sponsor": "Snyder, Robert W., M.D., Ph.D., P.C.",
+        "title": "Short Term Effects of Carbidopa-levodopa in Neovascular AMD",
+        "nct_id": "NCT03022318"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Bioequivalence",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2022-02-14",
+        "sponsor": "Laboratorios Andromaco S.A.",
+        "title": "Bioavailability of a Formulation of Oseltamivir Phosphate 75 mg Tablets With Regards to the Reference Product",
+        "nct_id": "NCT05250141"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Cocaine Abuse, Cocaine Dependence",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2005-10",
+        "sponsor": "The University of Texas Health Science Center, Houston",
+        "title": "General Evaluation of Eligibility for Substance Abuse/Dependence Research",
+        "nct_id": "NCT00439049"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE2",
+        "status": "UNKNOWN",
+        "start_date": "2018-07",
+        "sponsor": "Intec Pharma Ltd.",
+        "title": "An Open Label Phase 2 Study to Assess the Pharmacokinetics of the Accordion Pill Carbidopa-Levodopa Compared to Immediate Release Carbidopa-Levodopa in Patients With Parkinson's Disease",
+        "nct_id": "NCT03576638"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2006-11",
+        "sponsor": "Vernalis (R&D) Ltd",
+        "title": "Randomised, Double-blind, Double-dummy, Two-period, Cross-over Study to Determine the PK, PD and Safety of Multiple Doses of V1512 Effervescent Tablets in Parkinson's Disease Patients Compared to Sinemet\u00ae Oral Tablets",
+        "nct_id": "NCT00491998"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Sub-acute Back Pain",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2015-02-24",
+        "sponsor": "Northwestern University",
+        "title": "Corticostriatal Plasticity in the Transition to Chronic Pain: Effect of L-dopa",
+        "nct_id": "NCT01951105"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Spinal Cord Injury",
+        "phase": "PHASE1, PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2013-07",
+        "sponsor": "Nordic Life Science Pipeline Inc.",
+        "title": "Tri-therapy (SPINALON)-Elicited Spinal Locomotor Network Activation: Phase I-IIa Clinical Trial in Patients With Chronic Spinal Cord Injury",
+        "nct_id": "NCT01484184"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "start_date": "2020-02-12",
+        "sponsor": "University of Michigan",
+        "title": "Vigor and the LDR in Parkinson Disease",
+        "nct_id": "NCT04821830"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2009-12",
+        "sponsor": "Orion Corporation, Orion Pharma",
+        "title": "Levodopa Concentration Profile After Repeated Doses of Different Stalevo\u00ae Strengths With 3.5 Hours Dosing Frequency; an Open, Randomised, Crossover, Levodopa/Carbidopa Controlled Single Centre Study in Healthy Subjects, Two Parallel Groups",
+        "nct_id": "NCT01070628"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "Not Specified",
+        "status": "COMPLETED",
+        "start_date": "2007-06",
+        "sponsor": "Bristol-Myers Squibb",
+        "title": "An Open Label, Multiple-Dose Study ot Determine the Plasma Levodopa Profiles of Sinemet\u00ae CR (Carbidopa/Levodopa) at 4 Daily Dose Levels in Healthy Subjects",
+        "nct_id": "NCT00460954"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Depressive Disorder",
+        "phase": "PHASE4",
+        "status": "TERMINATED",
+        "start_date": "2021-10-07",
+        "sponsor": "New York State Psychiatric Institute",
+        "title": "Combination Treatment With L-DOPA and Exercise for Mood and Mobility Problems in Late-Life",
+        "nct_id": "NCT04650217"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease, Motor Fluctuations",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2012-01",
+        "sponsor": "Depomed",
+        "title": "A Phase 2, Randomized, Open-Label, Crossover Study to Compare DM-1992, a Novel Gastric-Retentive Extended-Release Formulation of Levodopa/Carbidopa, to an Immediate-Release Carbidopa Tablet in Patients With Advanced Parkinson's Disease With Motor Fluctuations",
+        "nct_id": "NCT01515410"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Idiopathic Parkinson's Disease",
+        "phase": "NA",
+        "status": "COMPLETED",
+        "start_date": "2011-12",
+        "sponsor": "Huashan Hospital",
+        "title": "a Pilot Follow-up Study of Investigating the Effect of Pramipexole on Metabolic Network Activity Compared With Levodopa in Chinese Patients With Early Parkinson's Disease",
+        "nct_id": "NCT01470859"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2016-06",
+        "sponsor": "Acorda Therapeutics",
+        "title": "A Phase 1 Single Dose Pharmacokinetic Bridging Study to Compare Two Dose Strengths of CVT-301 (Levodopa Inhalation Powder) With an Oral Dose of Sinemet\u00ae (Carbidopa-levodopa) Tablets",
+        "nct_id": "NCT02812394"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE2",
+        "status": "COMPLETED",
+        "start_date": "2015-11",
+        "sponsor": "Impax Laboratories, LLC",
+        "title": "A Study to Assess the Pharmacokinetics and Pharmacodynamics of a Single Dose of IPX203 in Patients With Advanced Parkinson's Disease",
+        "nct_id": "NCT02271503"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2018-02-08",
+        "sponsor": "Neurocrine Biosciences",
+        "title": "A Phase 1, Open-Label Study to Assess the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of Repeated Doses of Opicapone, and Effect on Levodopa Pharmacokinetics in Subjects With Parkinson's Disease",
+        "nct_id": "NCT03496870"
+      },
+      {
+        "drug_name": "Sinemet CR",
+        "indication": "Parkinson's Disease",
+        "phase": "PHASE1",
+        "status": "COMPLETED",
+        "start_date": "2015-08",
+        "sponsor": "Orion Corporation, Orion Pharma",
+        "title": "Pharmacokinetics of Levodopa After Repeated Doses of Carbidopa, ODM-104 and Levodopa: an Open, Randomised Study With Crossover Design in Healthy Males and Females",
+        "nct_id": "NCT02554734"
+      }
+    ]
+  },
+  "api_drug_placebo": {
+    "timestamp": "2025-12-15T21:59:08.899264",
+    "data": []
+  },
+  "api_drug_MET097 Injection": {
+    "timestamp": "2025-12-15T21:59:25.834454",
+    "data": [
+      {
+        "drug_name": "MET097 Injection",
+        "indication": "Obesity in Diabetes, Type 2 Diabetes Mellitus (T2DM)",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-03-14",
+        "sponsor": "Metsera",
+        "title": "A Phase 2b, Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Once-Weekly MET097 in Adults With Obesity or Overweight, and Type 2 Diabetes Mellitus (VESPER-2)",
+        "nct_id": "NCT06897202"
+      },
+      {
+        "drug_name": "MET097 Injection",
+        "indication": "Obesity and Overweight",
+        "phase": "PHASE1, PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-04-01",
+        "sponsor": "Metsera",
+        "title": "A Phase 1/2 Randomized Placebo-Controlled Double-Blind Study to Investigate the Safety, Tolerability, Efficacy, Pharmacokinetics, and Pharmacodynamics of Subcutaneous Doses of MET097 in Adult Participants With Obesity and Overweight But Otherwise Healthy",
+        "nct_id": "NCT06857617"
+      }
+    ]
+  },
+  "api_cond_Nash": {
+    "timestamp": "2025-12-15T22:02:54.353420",
+    "data": [
+      {
+        "drug_name": "ALN-HSD, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-02-09",
+        "sponsor": "Regeneron Pharmaceuticals",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study of siRNA Gene Silencing for the Treatment of Metabolic Dysfunction-Associated Steatohepatitis (MASH) in Participants With Genetic Risk Factors",
+        "nct_id": "NCT05519475"
+      },
+      {
+        "drug_name": "Synthroid, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-04-01",
+        "sponsor": "VA Office of Research and Development",
+        "title": "Low Dose Thyroid Hormone, Mitochondrial Fatty Acid Oxidation, and Treatment of Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT05526144"
+      },
+      {
+        "drug_name": "Empagliflozin 10 MG, Placebo Oral Tablet",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2025-01-27",
+        "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+        "title": "Mechanisms of SGLT2 Inhibition in Pediatric Steatotic Liver Disease",
+        "nct_id": "NCT06355310"
+      },
+      {
+        "drug_name": "Atorvastatin, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "RECRUITING",
+        "start_date": "2023-01-25",
+        "sponsor": "Mayo Clinic",
+        "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Clinical Trial to Evaluate the Safety and Efficacy of Statins in Adult Patients With Non-Alcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT04679376"
+      },
+      {
+        "drug_name": "GODEX, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE3",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2023-09-25",
+        "sponsor": "Yoon Jun Kim",
+        "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter, Prospective Comparative, Investigator-initiated Clinical Trial to Evaluate the Efficacy of Carnitine Orotate Complex _Godex\u00ae in Patients With Nonalcoholic Fatty Liver Disease",
+        "nct_id": "NCT06152991"
+      },
+      {
+        "drug_name": "Semaglutide, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE3",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-04-01",
+        "sponsor": "Novo Nordisk A/S",
+        "title": "The Effect of Semaglutide in Subjects With Non-cirrhotic Non-alcoholic Steatohepatitis",
+        "nct_id": "NCT04822181"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-01-14",
+        "sponsor": "Joslin Diabetes Center",
+        "title": "Assessing the Prevalence of Nonalcoholic Fatty Liver Disease and Advanced Fibrosis in Patients With Type 1 Diabetes Using Vibration-Controlled Transient Elastography and Noninvasive Scores",
+        "nct_id": "NCT04595474"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2023-11-22",
+        "sponsor": "AstraZeneca",
+        "title": "Non-alcoholic Steatohepatitis Registry Platform Study",
+        "nct_id": "NCT06123858"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2017-09-01",
+        "sponsor": "Copenhagen University Hospital, Hvidovre",
+        "title": "Fatty Liver Disease in Nordic Countries (FLINC): a Prospective Cohort Study",
+        "nct_id": "NCT04340817"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2015-09-22",
+        "sponsor": "University of Trieste",
+        "title": "Identification of New Biomarkers in the Diagnosis and Prognosis of Non-alcoholic Fatty Liver Disease and Correlation With Ultrasound and Elastographic Findings",
+        "nct_id": "NCT06098417"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-05-01",
+        "sponsor": "University Hospital, Ghent",
+        "title": "Comparison Between the Efficacy of Residential and Ambulatory Weight Loss Programs for Pediatric Non-alcoholic Fatty Liver Disease",
+        "nct_id": "NCT05309863"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2022-04-28",
+        "sponsor": "Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis",
+        "title": "Evaluation of Gut Permeability in Patients Affected by Obesity and NAFLD: Influence of Ketogenic Diet on Diagnostic and Prognostic Markers in Liver Disease",
+        "nct_id": "NCT05477212"
+      },
+      {
+        "drug_name": "Miricorilant (Cohort A), Placebo (Cohort A), Miricorilant (Cohort B), Placebo (Cohort B)",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-10-25",
+        "sponsor": "Corcept Therapeutics",
+        "title": "A Phase 2b, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Miricorilant in Adult Patients With Nonalcoholic Steatohepatitis/Metabolic Dysfunction-Associated Steatohepatitis (MONARCH)",
+        "nct_id": "NCT06108219"
+      },
+      {
+        "drug_name": "Rifaximin (Xifaxan)",
+        "indication": "Nash",
+        "phase": "EARLY_PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2024-08-10",
+        "sponsor": "Shanghai Changzheng Hospital",
+        "title": "Efficacy and Safety of Rifaximin in Treating Metabolic Associated Fatty Liver Disease: A Pilot Trial",
+        "nct_id": "NCT07185932"
+      },
+      {
+        "drug_name": "Incretin-Based Therapy",
+        "indication": "Nash",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2024-07-11",
+        "sponsor": "Ali Aminian",
+        "title": "A Prospective Multicenter International Randomized Controlled Trial Comparing Surgical and Medical Therapies in the Treatment of Advanced Metabolic Dysfunction Associated Steatohepatitis",
+        "nct_id": "NCT06374875"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-04-29",
+        "sponsor": "University Hospital Ostrava",
+        "title": "Influence of Bariatric Endoscopy on Clinical Course of NAFLD",
+        "nct_id": "NCT04895943"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2019-04-01",
+        "sponsor": "Chinese University of Hong Kong",
+        "title": "Change of Adipose Tissues and Triglyceride in Obese Patients With Non-alcoholic Fatty Liver Disease After Bariatric Surgery or Life-style Intervention",
+        "nct_id": "NCT03875625"
+      },
+      {
+        "drug_name": "18F-DPA-714, 18F-FDG",
+        "indication": "Nash",
+        "phase": "EARLY_PHASE1",
+        "status": "RECRUITING",
+        "start_date": "2025-04-30",
+        "sponsor": "University of California, Davis",
+        "title": "NeuroFLiPP - Parametric PET of Neuroinflammation in Fatty Liver Disease",
+        "nct_id": "NCT06453915"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-09-30",
+        "sponsor": "Hacettepe University",
+        "title": "The Effect of Aerobic and Resistant Exercise Training on Hepatic Functions, Inflammatory Markers and Functional Capacity in Patients With Non-Alcoholic Steatohepatitis",
+        "nct_id": "NCT05065593"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-09-10",
+        "sponsor": "Cairo University",
+        "title": "Lifestyle Changes in Fatty Liver; Additive Effect of Honey Intake",
+        "nct_id": "NCT06596109"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-07-01",
+        "sponsor": "Wuxi Hisky Medical Technology Co Ltd",
+        "title": "Prevalence of Metabolic Associated Fatty Liver Disease in Patients With Type 2 Diabetes in Jiangsu Province of China: a Prospective, Multicenter, Real-world Study",
+        "nct_id": "NCT05597709"
+      },
+      {
+        "drug_name": "Rencofilstat, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-15",
+        "sponsor": "Hepion Pharmaceuticals, Inc.",
+        "title": "A Phase 2B, Randomized, Multi-Center, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Rencofilstat in Adult Subjects With Nonalcoholic Steatohepatitis and Advanced Liver Fibrosis",
+        "nct_id": "NCT05402371"
+      },
+      {
+        "drug_name": "Survodutide, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE3",
+        "status": "RECRUITING",
+        "start_date": "2024-10-14",
+        "sponsor": "Boehringer Ingelheim",
+        "title": "A Randomised, Double-blind, Placebo-controlled, Multicentre, Phase III Trial Evaluating Long-term Efficacy and Safety of Survodutide Weekly Injections in Adult Participants With Noncirrhotic Non-alcoholic Steatohepatitis/Metabolic Dysfunction-associated Steatohepatitis (NASH/MASH) and (F2) - (F3) Stage of Liver Fibrosis",
+        "nct_id": "NCT06632444"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2019-01-21",
+        "sponsor": "Medical University of Vienna",
+        "title": "Cold-induced Brown Fat Activation and Hepatic Steatosis",
+        "nct_id": "NCT03811236"
+      },
+      {
+        "drug_name": "Goserelin Acetate 3.6 mg inj, implant",
+        "indication": "Nash",
+        "phase": "PHASE4",
+        "status": "RECRUITING",
+        "start_date": "2024-11-26",
+        "sponsor": "Aristotle University Of Thessaloniki",
+        "title": "Effect of the Pharmacological Cessation of Menstruation with a GnRH Analog on Hepatic Steatosis in Women with Endometriosis",
+        "nct_id": "NCT06523530"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2025-03-20",
+        "sponsor": "Uppsala University",
+        "title": "A Healthy Nordic Diet to Reduce the Progression of Atherosclerosis in Individuals with Coronary Heart Disease: a Secondary Prevention Trial",
+        "nct_id": "NCT06701968"
+      },
+      {
+        "drug_name": "EFX, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2021-07-30",
+        "sponsor": "Akero Therapeutics, Inc",
+        "title": "A Phase 2b, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Efficacy of Efruxifermin in Subjects With Compensated Cirrhosis Due to Nonalcoholic Steatohepatitis (NASH)",
+        "nct_id": "NCT05039450"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-05-17",
+        "sponsor": "GenieBiome Limited",
+        "title": "A Double-blind Randomized Placebo-controlled Study to Evaluate the Effect of Synbiotics SLP07 on Metabolic Dysfunction-Associated Fatty Liver Disease (MAFLD-RCT)",
+        "nct_id": "NCT06537882"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2023-12-01",
+        "sponsor": "Assiut University",
+        "title": "Role of Regulatory B Cells in the Pathogenesis of Metabolic Associated Fatty Liver Disease",
+        "nct_id": "NCT04720560"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2013-05",
+        "sponsor": "John Sievenpiper",
+        "title": "Effect of Substituting Plant Protein for Animal-Protein on Cardiometabolic Risk: A Series of Systematic Reviews and Meta-Analyses of Controlled Feeding Trials to Provide Evidence-Based Guidance for Nutrition Guidelines Development",
+        "nct_id": "NCT02037321"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2020-10-26",
+        "sponsor": "Hasselt University",
+        "title": "Screening for Non-Alcoholic Fatty Liver Disease (NAFLD) in a General Practitioner Population, in Flanders, Belgium.",
+        "nct_id": "NCT04647409"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-01-18",
+        "sponsor": "Emory University",
+        "title": "Non-Invasive Diagnostic Tests for MASLD in Pediatric Population at an Outpatient Clinic: Velacur and Blood-based Novel Tests",
+        "nct_id": "NCT06218589"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-08-01",
+        "sponsor": "Bettina Mittendorfer",
+        "title": "Harnessing Macrophage Lysosomal Lipid Metabolism in Obesity-Associated Diseases",
+        "nct_id": "NCT06571474"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2016-07",
+        "sponsor": "Target PharmaSolutions, Inc.",
+        "title": "A Longitudinal Observational Study of Patients With Nonalcoholic Steatohepatitis (NASH) and Related Conditions Across the Entire Spectrum of Nonalcoholic Fatty Liver Disease (NAFLD)",
+        "nct_id": "NCT02815891"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2023-05-01",
+        "sponsor": "The University of Hong Kong",
+        "title": "Effectiveness of Ambulatory Liver Fat Monitoring in Improvement of Hepatic Steatosis in Patients With Non-alcoholic Fatty Liver Disease: a Multi-center Randomized Controlled Trial",
+        "nct_id": "NCT05754385"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2022-12-06",
+        "sponsor": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+        "title": "CHronic Hepatopathies Associated with ALcohol Consumption and MetAbolic Syndrome",
+        "nct_id": "NCT05623150"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2021-09-27",
+        "sponsor": "Pontificia Universidad Catolica de Chile",
+        "title": "Cardiovascular Diseases (CVD) and Nonalcoholic Fatty Liver Diseases (NAFLD) Among Gallstone and Cholecystectomy Patients and the Impact of a Novel Diet and Muscle Training Program",
+        "nct_id": "NCT05618626"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2024-04-01",
+        "sponsor": "Shanghai East Hospital",
+        "title": "The Ameliorative Effect of C-Kit (+) Hepatic Endothelial Cells With Mertk Deficiency on Nonalcoholic Steatohepatitis",
+        "nct_id": "NCT06913699"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2021-07-01",
+        "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "title": "Human Liver ORganoids as a Model to Study the Role of the I148M Variant of the PNPLA3 Gene in the Development of Non-Alcoholic SteatOhepatitis (NASH)",
+        "nct_id": "NCT06856252"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-09-01",
+        "sponsor": "Franciscus Gasthuis",
+        "title": "The Franciscus Obesity NASH Study",
+        "nct_id": "NCT05499949"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2009-01-05",
+        "sponsor": "Pacific Coast Family Medical Group",
+        "title": "Physiology of Disease Prevention Observational Study in Clinical Practice",
+        "nct_id": "NCT03308773"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-10-19",
+        "sponsor": "Maastricht University",
+        "title": "Efficacy of Isocaloric Mediterranean Diet and Low-fat Diet in Overweight/Obese MASLD Subjects With Respect to PNPLA3 Single Nucleotide Polymorphism: A Randomized Controlled Trial",
+        "nct_id": "NCT06220695"
+      },
+      {
+        "drug_name": "Diazoxide oral suspension, 1 mg per kg per dose, Diazoxide oral suspension, 2 mg per kg per dose, Placebo, Deuterated water (2H2O/D2O)",
+        "indication": "Nash",
+        "phase": "PHASE1",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-08-01",
+        "sponsor": "Columbia University",
+        "title": "Role of Hyperinsulinemia in Non-Alcoholic Fatty Liver Disease (NAFLD) Pathogenesis: Diazoxide Pilot & Feasibility Study",
+        "nct_id": "NCT05729282"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "RECRUITING",
+        "start_date": "2024-02-02",
+        "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+        "title": "Focused Power Ultrasound Mediated Inferior Perirenal Adipose Tissue Modification Therapy for Non-Alcoholic Fatty Liver Disease: a Randomized Controlled Trial (PARADISE-NAFLD)",
+        "nct_id": "NCT06225713"
+      },
+      {
+        "drug_name": "HSK31679 80mg, HSK31679 160mg, Placebo",
+        "indication": "Nash",
+        "phase": "PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2023-11-23",
+        "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+        "title": "A Multicenter, Double-blind, Placebo Randomized , Phase2b Study to Evaluate the Efficacy and Safety of HSK31679 in Chinese Patients With Non-Alcoholic Steatohepatitis (NASH).",
+        "nct_id": "NCT06168383"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2024-05-01",
+        "sponsor": "Tanta University",
+        "title": "NAFLD Stigma vs MAFLD Stigma and Their Impact on Quality of Life in Egyptian Patients: A Survey Study",
+        "nct_id": "NCT06503068"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "RECRUITING",
+        "start_date": "2021-01-14",
+        "sponsor": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+        "title": "\"Constitution of a Biological Collection to Establish Preclinical Translational Models for the Study of Tumors and Chronic Liver Diseases\".",
+        "nct_id": "NCT04690972"
+      },
+      {
+        "drug_name": "Glucagon response study",
+        "indication": "Nash",
+        "phase": "PHASE1, PHASE2",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-20",
+        "sponsor": "Adrian Vella",
+        "title": "The Effects of Glucagon on Hepatic Metabolism",
+        "nct_id": "NCT05500586"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "Not Specified",
+        "status": "ENROLLING_BY_INVITATION",
+        "start_date": "2023-08-24",
+        "sponsor": "Helsinki University Central Hospital",
+        "title": "Risk Factors for Advanced Fibrosis Among Fatty Liver Disease Patients Identified Through Pharese-screening of Miaging Reports",
+        "nct_id": "NCT05971082"
+      },
+      {
+        "drug_name": "Experimental",
+        "indication": "Nash",
+        "phase": "NA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start_date": "2022-10-30",
+        "sponsor": "University of Eastern Finland",
+        "title": "Dietary Counseling Coupled With Fecal Microbiota Transplantation in the Treatment of Obesity and Non-alcoholic Fatty Liver Disease - the DIFTOB Study",
+        "nct_id": "NCT05607745"
+      }
+    ]
+  }
+}

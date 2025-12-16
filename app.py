@@ -1,5 +1,4 @@
 import streamlit as st
-# Trigger reload
 import asyncio
 import json
 import hashlib
@@ -22,6 +21,8 @@ from visualization_components import (
     create_market_funnel,
     export_dashboard
 )
+from utils.competitor_dashboard import render_competitor_dashboard
+from utils.patent_network import render_patent_network
 
 # ======================================================================================
 # HELPER FUNCTIONS FOR EXCEL EXPORT
@@ -1087,7 +1088,9 @@ if analyze_button or st.session_state.get("loaded_analysis"):
             "📈 Dashboard",
             "🔍 Detailed Analysis", 
             "⚠️ Risk Assessment", 
-            "💬 Deep Dive",
+            "⚔️ Competitive Intel",
+            "�️ Patent Landscape",
+            "�💬 Deep Dive",
             "📄 Download Report"
         ])
         
@@ -1531,8 +1534,63 @@ if analyze_button or st.session_state.get("loaded_analysis"):
             
             st.markdown("</div>", unsafe_allow_html=True)
 
-        # ==================== TAB 4: DEEP DIVE ====================
+        # ==================== TAB 5: COMPETITIVE INTEL ====================
         with tabs[4]:
+            st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+            # Fetch data or use existing all_results
+            # We assume master_agent puts competitor data in all_results['competitor'] or similar
+            # Since MasterAgent runs asynchronously, we need to ensure the key matches what CompetitorAgent returns.
+            # CompetitorAgent returns {"competitor_analysis": ...}
+            
+            # Check if we have data for specific molecule analysis
+            formatted_data = {}
+            
+            if analysis_mode == "Single Molecule":
+                # Direct access
+                if "competitor_analysis" in all_results: # If merged at top level
+                     formatted_data = {"competitor_analysis": all_results["competitor_analysis"]}
+                elif "competitor" in all_results: # If nested capabilities
+                     formatted_data = all_results["competitor"]
+                
+                # If separate agent key? 
+                # Let's check how MasterAgent compiles results. Usually it's by agent name.
+                # Assuming 'competitor_agent' key.
+                if "competitor_agent" in all_results:
+                     formatted_data = all_results["competitor_agent"]
+                
+                render_competitor_dashboard(formatted_data)
+            
+            else: # Compare mode
+                st.info("Select 'Single Molecule' analysis to view detailed competitive intelligence dashboard.")
+                
+            st.markdown("</div>", unsafe_allow_html=True)
+
+        # ==================== TAB 6: PATENT LANDSCAPE ====================
+        with tabs[5]:
+             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+             if analysis_mode == "Single Molecule" and "patent_analysis" in all_results:
+                 p_data = all_results["patent_analysis"]
+                 # PatentAgent returns dict, we need 'top_patents' list or similar
+                 # Checking structure from PatentAgent.analyze_async:
+                 # result = { ..., "top_patents": [...], "findings": ... }
+                 
+                 patents_list = p_data.get("top_patents", [])
+                 if not patents_list and "findings" in p_data:
+                     # Fallback if structure varies
+                     pass
+                 
+                 st.markdown("### 🕸️ Interactive Patent Network")
+                 st.info("Drag nodes to rearrange. Hover for details. Scroll to zoom.")
+                 render_patent_network(patents_list, molecule_name)
+                 
+             elif analysis_mode == "Compare Molecules":
+                 st.info("Select 'Single Molecule' mode to view Patent Landscape.")
+             else:
+                 st.warning("Run analysis to generate patent data.")
+             st.markdown("</div>", unsafe_allow_html=True)
+
+        # ==================== TAB 7: DEEP DIVE ====================
+        with tabs[6]:
             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
             st.markdown("### 🔍 Deep Dive Analysis")
             
@@ -1607,8 +1665,8 @@ if analyze_button or st.session_state.get("loaded_analysis"):
             
             st.markdown('</div>', unsafe_allow_html=True)
 
-        # ==================== TAB 5: REPORT DOWNLOAD ====================
-        with tabs[5]:
+        # ==================== TAB 8: REPORT DOWNLOAD ====================
+        with tabs[7]:
             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
             pdf_file = all_results.get("pdf_report")
             if pdf_file:
